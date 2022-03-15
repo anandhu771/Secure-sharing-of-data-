@@ -19,19 +19,21 @@
     <td>district</td>
     <td>&nbsp;</td>
   </tr>
+    {% for i in data %}
   <tr>
-    <th scope="row">&nbsp;</th>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <th scope="row">{{ loop.index }}&nbsp;</th>
+    <td>&nbsp;{{ i['miniter_name'] }}</td>
+    <td>{{ i['m_gender'] }}&nbsp;</td>
+    <td>{{ i['minister_email'] }}&nbsp;</td>
+    <td>{{ i['minister_contactnumber'] }}&nbsp;</td>
+    <td>{{ i['minister_place'] }}&nbsp;</td>
+    <td>{{ i['minister_photo'] }}&nbsp;</td>
+    <td>{{ i['minister_proof'] }}&nbsp;</td>
+    <td>{{ i['minister_district'] }}&nbsp;</td>
     <td><p><a href="#">delete</a></p>
-      <p><a href="#">allocate</a></p></td>
+      <p><a href="/allocate_minister/{{ i['minister_id'] }}">allocate</a></p></td>
   </tr>
+     {% endfor  %}
 </table>
 </form>
 </body>

@@ -58,7 +58,9 @@ def minister_registration():
 
 @app.route('/view_minister')
 def view_minister():
-    return render_template('Admin/view_minister.html')
+    db=Db()
+    res =db.select("select * from minister")
+    return render_template('Admin/view_minister.html',data=res)
 
 @app.route('/officer_registration',methods=['get','post'])
 def officer_registration():
@@ -96,12 +98,19 @@ def admin_home():
     return render_template('Admin/admin_home.html')
 
 
-@app.route('/allocate_minister',methods=['get','post'])
-def allocate_minister():
+@app.route('/allocate_minister/<m_id>',methods=['get','post'])
+def allocate_minister(m_id):
     if request.method == 'POST':
+
         department=request.form['select']
         year =request.form['textfield5']
-    return render_template('Admin/allocate_minister.html')
+        db=Db()
+        db.insert("insert into allocate_minister VALUES ('','"+department+"','"+m_id+"','"+year+"')")
+        return '''<script>alert("allocated successfully");window.location="/view_minister"</script>'''
+    else:
+        db=Db()
+        res=db.select("select * from department ")
+        return render_template('Admin/allocate_minister.html',data=res)
 
 @app.route('/allocate_officer',methods=['get','post'])
 def allocate_officer():
@@ -118,16 +127,25 @@ def view_suggestions():
 @app.route('/view_complaint')
 def view_complaint():
     db = Db()
-    res = db.select("SELECT * FROM officer,complaint WHERE officer.officer_id = complaint.sender_id")
-    res1 = db.select("SELECT * FROM minister,complaint WHERE minister.minister_id = complaint.complaint_id")
+    res = db.select("SELECT * FROM officer,complaint WHERE officer.officer_id = complaint.sender_id and complaint.complaint_reply='pending'")
+    res1 = db.select("SELECT * FROM minister,complaint WHERE minister.minister_id = complaint.complaint_id and complaint.complaint_reply='pending'")
     return render_template('Admin/view_complaint.html', data=res, data1=res1)
 
 
-@app.route('/send_reply',methods=['get','post'])
-def send_reply():
+@app.route('/send_reply/<c_id>',methods=['get','post'])
+def send_reply(c_id):
+
     if request.method == 'POST':
+
         reply = request.form['textarea']
-    return render_template('Admin/send_reply.html')
+        db=Db()
+        db.update("update complaint set complaint_reply='"+reply+"',reply_date=curdate() where complaint_id='"+c_id+"'")
+        return '''<script>alert("reply sent ");window.location="/view_complaint"</script>'''
+    else:
+
+        return render_template('Admin/send_reply.html')
+
+
 
 
 if __name__ == '__main__':
