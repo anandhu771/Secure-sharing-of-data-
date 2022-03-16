@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+<h1>Minister Profile </h1>
+<form action="" method="get"><table width="200" border="1">
+  <tr>
+    <th scope="row">Photo</th>
+    <td><img src="{{ data['minister_photo'] }}"></td>
+  </tr>
+  <tr>
+    <th scope="row">Name </th>
+    <td>{{ data['miniter_name'] }}</td>
+  </tr>
+  <tr>
+    <th scope="row">ID</th>
+    <td>{{ data['minister_id'] }}</td>
+  </tr>
+  <tr>
+    <th scope="row">Department </th>
+    <td>{{ data['dept_name'] }}</td>
+  </tr>
+  <tr>
+    <th scope="row"><p>Email</p></th>
+    <td>{{ data['minister_email'] }}</td>
+  </tr>
+  <tr>
+    <th scope="row">Contact Number </th>
+    <td>{{ data['minister_contactnumber'] }}</td>
+  </tr>
+  <tr>
+    <th scope="row">Place </th>
+    <td>{{ data['minister_place'] }}</td>
+  </tr>
+  <tr>
+    <th scope="row">District </th>
+    <td>{{ data['minister_district'] }}</td>
+  </tr>
+</table>
+</form>
+</body>
+</html>

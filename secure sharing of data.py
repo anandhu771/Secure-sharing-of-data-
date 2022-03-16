@@ -1,7 +1,8 @@
-from flask import Flask,render_template,request,redirect
+from flask import Flask,render_template,request,redirect,session
 from db_connection import Db
 import random,datetime
 app = Flask(__name__)
+app.secret_key = "123"
 
 
 @app.route('/',methods=['get','post'])
@@ -15,6 +16,7 @@ def login():
             if ss['user_type'] == 'admin':
                 return redirect('/admin_home')
             elif ss['user_type'] == 'minister':
+                session['m_id'] = ss['login_id']
                 return redirect('/minister')
             else :
                 return redirect('/officer')
@@ -112,11 +114,17 @@ def allocate_minister(m_id):
         res=db.select("select * from department ")
         return render_template('Admin/allocate_minister.html',data=res)
 
-@app.route('/allocate_officer',methods=['get','post'])
-def allocate_officer():
+@app.route('/allocate_officer/<o_id>',methods=['get','post'])
+def allocate_officer(o_id):
     if request.method == 'POST':
         department=request.form['select']
-    return render_template('Admin/allocate_officer.html')
+        db=Db()
+        db.insert("insert into allocate_officer VALUES ('','"+department+"','"+o_id+"')")
+        return '''<script>alert("officer allocated successfully");window.location="/view_officer"</script>'''
+    else:
+        db=Db()
+        res=db.select("select * from department")
+        return render_template('Admin/allocate_officer.html',data=res )
 
 @app.route('/view_suggestions')
 def view_suggestions():
@@ -146,7 +154,12 @@ def send_reply(c_id):
         return render_template('Admin/send_reply.html')
 
 
-
+# ------Minister------
+@app.route('/minister_profile')
+def minister_profile():
+    db=Db()
+    view= db.selectOne("select * from minister,allocate_minister,department where minister.minister_id = allocate_minister.allocate_id and department.dept_id=allocate_minister.dept_id and minister.minster_id = '"+str(session['m_id'])+"' ")
+    return render_template('minister/minister_profile.html',data=view)
 
 if __name__ == '__main__':
     app.run()

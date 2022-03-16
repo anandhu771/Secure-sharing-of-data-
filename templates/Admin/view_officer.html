@@ -27,12 +27,12 @@
     <td>&nbsp;{{ i['officer_email'] }}</td>
     <td>{{ i['officer_contactnumber'] }}&nbsp;</td>
     <td>&nbsp;{{ i['officer_place'] }}</td>
-    <td>&nbsp;{{ i['officer_photo'] }}</td>
-    <td>&nbsp;{{ i['officer_proof'] }}</td>
+    <td> <img src="{{  i['officer_photo']}}"height="100" width="100"></td>
+    <td>&nbsp;<img src="{{ i['officer_proof'] }}"height="100"width="100"></td>
         <td>&nbsp;{{ i['officer_district'] }}</td>
     <td>&nbsp;</td>
     <td><p><a href="#">delete</a></p>
-      <p><a href="#">allocate</a></p></td>
+      <p><a href="/allocate_officer/{{ i['officer_id'] }}">allocate</a></p></td>
   </tr>
     {% endfor  %}
 </table>
