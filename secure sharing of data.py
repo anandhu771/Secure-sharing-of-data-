@@ -155,11 +155,31 @@ def send_reply(c_id):
 
 
 # ------Minister------
+@app.route('/minister')
+def minister_home():
+    return render_template('minister/minister_home.html')
+
+
 @app.route('/minister_profile')
 def minister_profile():
     db=Db()
-    view= db.selectOne("select * from minister,allocate_minister,department where minister.minister_id = allocate_minister.allocate_id and department.dept_id=allocate_minister.dept_id and minister.minster_id = '"+str(session['m_id'])+"' ")
-    return render_template('minister/minister_profile.html',data=view)
+    res= db.selectOne("select * from minister,allocate_minister,department where minister.minister_id = allocate_minister.minister_id and department.dept_id=allocate_minister.dept_id and minister.minister_id = '"+str(session['m_id'])+"' ")
+    return render_template('minister/minister_profile.html',data=res)
+
+
+app.route('/minister_officer_view')
+def minister_officer_view():
+    return render_template('minister/minister_officer_view.html')
+
+app.route('/inbox_from_officer')
+def inbox_from_officer():
+    return render_template('minister/inbox_from_officer.html')
+
+app.route('/minister_send_suggestion')
+def minister_send_suggestion():
+    render_template('minister/minister_send_suggestions.html')
+
+    
 
 if __name__ == '__main__':
-    app.run()
+    app.run(port=4000)
