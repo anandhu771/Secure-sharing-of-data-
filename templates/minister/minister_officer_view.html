@@ -7,6 +7,7 @@
 
 <body><form action="" method="get"><table width="472" height="184" border="1">
   <tr>
+      <th>#</th>
     <th scope="col">Name </th>
     <th scope="col">Gender</th>
     <th scope="col">Email</th>
@@ -14,22 +15,17 @@
     <th scope="col">Photo</th>
     <th scope="col">Place </th>
   </tr>
+    {% for i in data %}
   <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>{{ loop.index }}&nbsp;</td>
+    <td>&nbsp;{{i['officer_name']}}</td>
+    <td>{{ i['o_gender'] }}&nbsp;</td>
+    <td>{{ i['officer_email'] }}&nbsp;</td>
+    <td>{{ i['officer_contactnumber'] }}&nbsp;</td>
+    <td><img src="{{ i['officer_photo'] }}"height="100" width="100">&nbsp;</td>
+      <td>{{ i['officer_place'] }}</td>
   </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
+    {%endfor %}
 </table>
 </form>
 </body>

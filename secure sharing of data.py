@@ -119,7 +119,7 @@ def allocate_officer(o_id):
     if request.method == 'POST':
         department=request.form['select']
         db=Db()
-        db.insert("insert into allocate_officer VALUES ('','"+department+"','"+o_id+"')")
+        db.insert("insert into allocate_officer VALUES ('','"+o_id+"','"+department+"')")
         return '''<script>alert("officer allocated successfully");window.location="/view_officer"</script>'''
     else:
         db=Db()
@@ -167,19 +167,28 @@ def minister_profile():
     return render_template('minister/minister_profile.html',data=res)
 
 
-app.route('/minister_officer_view')
+@app.route('/minister_officer_view')
 def minister_officer_view():
-    return render_template('minister/minister_officer_view.html')
+    db=Db()
+    res=db.select("select * from allocate_officer,allocate_minister,officer where allocate_officer.department_id = allocate_minister.dept_id and allocate_officer.officer_id = officer.officer_id and allocate_minister.minister_id = '"+str(session['m_id'])+"'")
+    return render_template('minister/minister_officer_view.html',data=res)
 
-app.route('/inbox_from_officer')
+@app.route('/inbox_from_officer')
 def inbox_from_officer():
-    return render_template('minister/inbox_from_officer.html')
+    db=Db()
+    res = db.select("select * from allocate_officer,allocate_minister,document,officer where allocate_officer.department_id = allocate_minister.dept_id and allocate_officer.allocate_officer_id = document.allocate_officer_id and allocate_minister.minister_id = '"+str(session['m_id'])+"'and allocate_officer.officer_id = officer.officer_id")
+    return render_template('minister/inbox_from_officer.html',data=res)
 
-app.route('/minister_send_suggestion')
+@app.route('/minister_send_suggestions',methods=['get','post'])
 def minister_send_suggestion():
-    render_template('minister/minister_send_suggestions.html')
+    if request.method == "POST":
+       res = request.form['textarea']
+       db=Db()
+       db.insert("insert into suggestions VALUES('','"+str(session['m_id'])+"',curdate(),'"+res+"') ")
+       return '''<script>alert("suggestion sent");window.location = "/minister_send_suggestions"</script>'''
+    return render_template('minister/minister_send_suggestions.html')
 
-    
+
 
 if __name__ == '__main__':
     app.run(port=4000)
