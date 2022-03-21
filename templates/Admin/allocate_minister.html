@@ -10,7 +10,7 @@
   <tr>
     <th scope="row">deprtment</th>
     <td><label for="select"></label>
-      <select name="select" id="select">
+      <select name="select" id="select" required>
           {% for i in data  %}
           <option value="{{ i['dept_id'] }}"> {{ i['dept_name'] }}</option>
           {% endfor %}
@@ -18,8 +18,8 @@
   </tr>
     <tr>
     <th scope="row">year</th>
-    <td><label for="textfield5"></label>
-      <input type="date" name="textfield5" id="textfield5" /></td>
+    <td><label for="textfield5" ></label>
+      <input type="date" name="textfield5" id="textfield5" required/></td>
   </tr>
   <tr>
     <th colspan="2" scope="row"><input type="submit" name="button" id="button" value="Submit" /></th>

@@ -26,7 +26,7 @@ CREATE TABLE `allocate_minister` (
   `minister_id` int(11) DEFAULT NULL,
   `year` date DEFAULT NULL,
   PRIMARY KEY (`allocate_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
 
 /*Data for the table `allocate_minister` */
 
@@ -61,13 +61,14 @@ CREATE TABLE `complaint` (
   `complaint_reply` varchar(500) DEFAULT NULL,
   `reply_date` date DEFAULT NULL,
   PRIMARY KEY (`complaint_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;
 
 /*Data for the table `complaint` */
 
 insert  into `complaint`(`complaint_id`,`sender_id`,`complaint`,`complaint_date`,`complaint_reply`,`reply_date`) values 
 (1,3,'bad','2022-03-15','okko','2022-03-15'),
-(2,2,'network issue','2022-03-30','okkkk','2022-03-15');
+(2,2,'network issue','2022-03-30','okkkk','2022-03-15'),
+(3,3,'tototo','2022-03-21','pending','2022-03-21');
 
 /*Table structure for table `department` */
 
@@ -112,14 +113,15 @@ CREATE TABLE `login` (
   `password` varchar(50) DEFAULT NULL,
   `user_type` varchar(50) DEFAULT NULL,
   PRIMARY KEY (`login_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=latin1;
 
 /*Data for the table `login` */
 
 insert  into `login`(`login_id`,`username`,`password`,`user_type`) values 
 (1,'admin','admin','admin'),
 (2,'anjsaj@gmail.com','11781','minister'),
-(3,'anjsaj@gmail.com','66245','officer');
+(3,'anjsaj@gmail.com','66245','officer'),
+(4,NULL,NULL,NULL);
 
 /*Table structure for table `minister` */
 

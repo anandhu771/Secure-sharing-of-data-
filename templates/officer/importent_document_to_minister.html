@@ -6,15 +6,15 @@
 </head>
 
 <body>
-<form id="form1" name="form1" method="post" action="">
+<form action="" method="post" enctype="multipart/form-data" name="form1" id="form1">
   <table width="200" border="1">
     <tr>
-      <th scope="row">Department Name </th>
-      <td><label for="textfield"></label>
-      <input type="text" name="textfield" id="textfield" required/></td>
+      <th colspan="2" scope="col">Upload the Documents</th>
     </tr>
     <tr>
-      <th colspan="2" scope="row"><input type="submit" name="button" id="button" value="Submit" /></th>
+      <td><label for="fileField"></label>
+      <input type="file" name="fileField" id="fileField" /></td>
+      <td><input type="submit" name="button" id="button" value="Send to Minister" /></td>
     </tr>
   </table>
 </form>
