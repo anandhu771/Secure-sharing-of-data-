@@ -25,7 +25,7 @@ def login():
                 session['o_id'] = ss['login_id']
                 return redirect('/officer')
 
-    return render_template('login.html')
+    return render_template('login1.html')
 @app.route('/logout')
 def logout():
     session.clear()
@@ -91,10 +91,10 @@ def officer_registration():
             district = request.form['select']
             proof = request.files['fileField2']
             date = datetime.datetime.now().strftime('%y%m%d-%H%M%S')
-            proof.save(r"C:\Users\BEST\PycharmProjects\secure sharing of data\static\officer//"+date+'.jpg')
+            proof.save(r"C:\Users\BEST\PycharmProjects\secure sharing of data\static\officer\\"+date+'.jpg')
             proof1 = "/static/officer/"+date+'.jpg'
             photo = request.files['fileField']
-            photo.save(r"C:\Users\BEST\PycharmProjects\secure sharing of data\static\photo//"+date+'.jpg')
+            photo.save(r"C:\Users\BEST\PycharmProjects\secure sharing of data\static\photo\\"+date+'.jpg')
             photo1 = "/static/photo/"+date+'.jpg'
             contact_number = request.form['textfield5']
             place = request.form['textfield6']
@@ -254,9 +254,23 @@ def officer_profile():
     else:
         return redirect('/')
 
-@app.route('/importent_document_to_minister')
+@app.route('/importent_document_to_minister',methods=['get','post'])
 def officer_importent_document_to_minister():
+
     if session['lg'] == "lin":
+        if request.method == 'POST':
+
+            db=Db()
+            res = request.files['fileField']
+            type = request.form['textfield6']
+            date = datetime.datetime.now().strftime('%y%m%d-%H%M%S')
+            res.save(r"C:\Users\BEST\PycharmProjects\secure sharing of data\static\documents\\" + date + '.pdf')
+            proof1 = "/static/documents/" + date + '.pdf'
+            ss = db.selectOne("select * from allocate_officer where officer_id = '"+str(session['o_id'])+"'")
+            oid = ss['allocate_officer_id']
+            print (oid,ss)
+            db.insert("insert into document VALUES ('','"+str(oid)+"','"+proof1+"','"+type+"',curdate())")
+            return '''<script>alert("Document Sent");window.location="/importent_document_to_minister"</script>'''
         return render_template('officer/importent_document_to_minister.html')
     else:
         return redirect('/')
