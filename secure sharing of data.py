@@ -121,7 +121,7 @@ def view_officer():
 @app.route('/admin_home')
 def admin_home():
     if session['lg'] == "lin":
-        return render_template('Admin/admin_home.html')
+        return render_template('Admin/index-1.html')
     else:
         return redirect('/')
 
@@ -133,8 +133,13 @@ def allocate_minister(m_id):
             department=request.form['select']
             year =request.form['textfield5']
             db=Db()
-            db.insert("insert into allocate_minister VALUES ('','"+department+"','"+m_id+"','"+year+"')")
-            return '''<script>alert("allocated successfully");window.location="/view_minister"</script>'''
+            ss = db.selectOne("select * from allocate_minister where minister_id = '"+m_id+"' and dept_id = '"+department+"'")
+            if ss is None:
+                db.insert("insert into allocate_minister VALUES ('','"+department+"','"+m_id+"','"+year+"')")
+
+                return '''<script>alert("allocated successfully");window.location="/view_minister"</script>'''
+            else:
+                return '''<script>alert("already allocated");window.location="/view_minister"</script>'''
         else:
             db=Db()
             res=db.select("select * from department ")
@@ -142,6 +147,19 @@ def allocate_minister(m_id):
     else:
         return redirect('/')
 
+@app.route('/delete_minister/<d_id>')
+def delete_minister(d_id):
+    db=Db()
+    db.delete("delete from minister where minister_id = '"+d_id+"'")
+    db.delete("delete from login where login_id = '"+d_id+"'")
+    return '''<script>alert("Minister Deleted");window.location="/view_minister"</script>'''
+
+@app.route('/delete_officer/<d_id>')
+def delete_officer(d_id):
+    db=Db()
+    db.delete("delete from officer where officer_id = '"+d_id+"'")
+    db.delete("delete from login where login_id = '" + d_id + "'")
+    return '''<script>alert("Officer Deleted");window.location="/view_officer"</script>'''
 
 @app.route('/allocate_officer/<o_id>',methods=['get','post'])
 def allocate_officer(o_id):

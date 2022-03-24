@@ -1,3 +1,5 @@
+{% extends 'Admin/index-1.html' %}
+{% block body %}
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -30,7 +32,7 @@
     <td><img src="{{ i['minister_photo'] }}"height="100" width="100">&nbsp;</td>
     <td><img src="{{ i['minister_proof'] }}"height="100" width="100">&nbsp;</td>
     <td>{{ i['minister_district'] }}&nbsp;</td>
-    <td><p><a href="#">delete</a></p>
+    <td><p><a href="/delete_minister/{{ i['minister_id'] }}" onclick="return confirm('Are you sure to delete?')">delete</a></p>
       <p><a href="/allocate_minister/{{ i['minister_id'] }}">allocate</a></p></td>
   </tr>
      {% endfor  %}
@@ -38,3 +40,4 @@
 </form>
 </body>
 </html>
+{% endblock %}

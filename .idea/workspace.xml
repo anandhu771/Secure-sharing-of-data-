@@ -2,128 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5bc6e05-3515-4c13-b026-0290757bc4f6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/JosefinSans/JosefinSans-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/JosefinSans/JosefinSans-BoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/JosefinSans/JosefinSans-Italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/JosefinSans/JosefinSans-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/JosefinSans/JosefinSans-LightItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/JosefinSans/JosefinSans-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/JosefinSans/JosefinSans-SemiBold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/JosefinSans/JosefinSans-SemiBoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/JosefinSans/JosefinSans-Thin.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/JosefinSans/JosefinSans-ThinItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/iconic/fonts/Material-Design-Iconic-Font.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/iconic/fonts/Material-Design-Iconic-Font.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/iconic/fonts/Material-Design-Iconic-Font.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/iconic/fonts/Material-Design-Iconic-Font.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/source-sans-pro/SourceSansPro-Black.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/source-sans-pro/SourceSansPro-BlackItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/source-sans-pro/SourceSansPro-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/source-sans-pro/SourceSansPro-BoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/source-sans-pro/SourceSansPro-ExtraLight.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/source-sans-pro/SourceSansPro-ExtraLightItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/source-sans-pro/SourceSansPro-Italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/source-sans-pro/SourceSansPro-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/source-sans-pro/SourceSansPro-LightItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/source-sans-pro/SourceSansPro-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/source-sans-pro/SourceSansPro-SemiBold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/source-sans-pro/SourceSansPro-SemiBoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/ubuntu/Ubuntu-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/ubuntu/Ubuntu-BoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/ubuntu/Ubuntu-Italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/ubuntu/Ubuntu-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/ubuntu/Ubuntu-LightItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/ubuntu/Ubuntu-Medium.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/ubuntu/Ubuntu-MediumItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/ubuntu/Ubuntu-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/images/icons/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/images/icons/map-marker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/css/util.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/JosefinSans/OFL.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/less/screen-reader.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/font-awesome-4.7.0/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/iconic/css/material-design-iconic-font.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/iconic/css/material-design-iconic-font.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/iconic/fonts/Material-Design-Iconic-Font.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/source-sans-pro/OFL.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/ubuntu/UFL.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/animate/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/animsition/css/animsition.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/animsition/css/animsition.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/animsition/js/animsition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/animsition/js/animsition.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/bootstrap/css/bootstrap-grid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/bootstrap/css/bootstrap-grid.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/bootstrap/css/bootstrap-grid.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/bootstrap/css/bootstrap-grid.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/bootstrap/css/bootstrap-reboot.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/bootstrap/css/bootstrap-reboot.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/bootstrap/css/bootstrap-reboot.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/bootstrap/css/bootstrap-reboot.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/bootstrap/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/bootstrap/js/popper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/bootstrap/js/popper.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/bootstrap/js/tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/countdowntime/countdowntime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/css-hamburgers/hamburgers.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/css-hamburgers/hamburgers.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/daterangepicker/daterangepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/daterangepicker/daterangepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/daterangepicker/moment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/daterangepicker/moment.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/jquery/jquery-3.2.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/perfect-scrollbar/perfect-scrollbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/perfect-scrollbar/perfect-scrollbar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/select2/select2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/select2/select2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/select2/select2.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/vendor/select2/select2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/login1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/img/fav.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/img/index-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/img/index.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/img/user1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/img/user2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/img/user3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/img/congrats.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/img/food.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/img/happy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/img/sneakers.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/img/soccer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/img/socks.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/img/tailwindcss.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/img/user.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Admin/index-1.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/secure sharing of data.py" afterPath="$PROJECT_DIR$/secure sharing of data.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/officer/importent_document_to_minister.html" afterPath="$PROJECT_DIR$/templates/officer/importent_document_to_minister.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Admin/add_department.html" afterPath="$PROJECT_DIR$/templates/Admin/add_department.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Admin/admin_home.html" afterPath="$PROJECT_DIR$/templates/Admin/admin_home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Admin/allocate_minister.html" afterPath="$PROJECT_DIR$/templates/Admin/allocate_minister.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Admin/allocate_officer.html" afterPath="$PROJECT_DIR$/templates/Admin/allocate_officer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Admin/minister_Registration_form.html" afterPath="$PROJECT_DIR$/templates/Admin/minister_Registration_form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Admin/officer_registration_form.html" afterPath="$PROJECT_DIR$/templates/Admin/officer_registration_form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Admin/send_reply.html" afterPath="$PROJECT_DIR$/templates/Admin/send_reply.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Admin/view_complaint.html" afterPath="$PROJECT_DIR$/templates/Admin/view_complaint.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Admin/view_minister.html" afterPath="$PROJECT_DIR$/templates/Admin/view_minister.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Admin/view_officer.html" afterPath="$PROJECT_DIR$/templates/Admin/view_officer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Admin/view_suggestions.html" afterPath="$PROJECT_DIR$/templates/Admin/view_suggestions.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -133,158 +42,106 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/secure_sharing_of_data$secure_sharing_of_data.coverage" NAME="secure sharing of data Coverage Results" MODIFIED="1647972250016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/secure_sharing_of_data$secure_sharing_of_data.coverage" NAME="secure sharing of data Coverage Results" MODIFIED="1648147493840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="secure sharing of data.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/secure sharing of data.py">
+      <file leaf-file-name="officer_registration_form.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/Admin/officer_registration_form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-              <folding>
-                <element signature="e#0#64#0" expanded="true" />
-                <marker date="1647971543360" expanded="true" signature="381:419" ph="select * fro... login" />
-                <marker date="1647971543360" expanded="true" signature="381:449" ph="select * fro... login" />
-                <marker date="1647971543360" expanded="true" signature="381:462" ph="select * fro... login" />
-                <marker date="1647971543360" expanded="true" signature="381:464" ph="select * fro... login" />
-                <marker date="1647971543360" expanded="true" signature="1326:1360" ph="insert into department... " />
-                <marker date="1647971543360" expanded="true" signature="1326:1361" ph="insert into department... " />
-                <marker date="1647971543360" expanded="true" signature="1326:1371" ph="insert into department... " />
-                <marker date="1647971543360" expanded="true" signature="1326:1373" ph="insert into department... " />
-                <marker date="1647971543360" expanded="true" signature="2593:2660" ph="insert into login... " />
-                <marker date="1647971543360" expanded="true" signature="2686:2839" ph="insert into minister... " />
-                <marker date="1647971543360" expanded="true" signature="3178:3200" ph="select * fro... minister" />
-                <marker date="1647971543360" expanded="true" signature="4328:4393" ph="insert into login... " />
-                <marker date="1647971543360" expanded="true" signature="4419:4571" ph="insert into officer... " />
-                <marker date="1647971543360" expanded="true" signature="4909:4930" ph="select * fro... officer" />
-                <marker date="1647971543360" expanded="true" signature="5526:5568" ph="insert into allocate_minister... " />
-                <marker date="1647971543360" expanded="true" signature="5526:5585" ph="insert into allocate_minister... " />
-                <marker date="1647971543360" expanded="true" signature="5526:5596" ph="insert into allocate_minister... " />
-                <marker date="1647971543360" expanded="true" signature="5526:5606" ph="insert into allocate_minister... " />
-                <marker date="1647971543360" expanded="true" signature="5777:5801" ph="select * fro... department" />
-                <marker date="1647971543360" expanded="true" signature="6169:6209" ph="insert into allocate_officer... " />
-                <marker date="1647971543360" expanded="true" signature="6169:6210" ph="insert into allocate_officer... " />
-                <marker date="1647971543360" expanded="true" signature="6169:6221" ph="insert into allocate_officer... " />
-                <marker date="1647971543360" expanded="true" signature="6169:6237" ph="insert into allocate_officer... " />
-                <marker date="1647971543360" expanded="true" signature="6415:6439" ph="select * fro... department" />
-                <marker date="1647971543360" expanded="true" signature="6688:6775" ph="SELECT * FRO... minister" />
-                <marker date="1647971543360" expanded="true" signature="7015:7133" ph="SELECT * FRO... officer" />
-                <marker date="1647971543360" expanded="true" signature="7162:7286" ph="SELECT * FRO... minister" />
-                <marker date="1647971543360" expanded="true" signature="7647:7746" ph="update compl... " />
-                <marker date="1647971543360" expanded="true" signature="8292:8505" ph="select * fro... minister" />
-                <marker date="1647971543360" expanded="true" signature="8759:8811" ph="select * fro... allocate_officer" />
-                <marker date="1647971543360" expanded="true" signature="8759:8971" ph="select * fro... allocate_officer" />
-                <marker date="1647971543360" expanded="true" signature="8759:8996" ph="select * fro... allocate_officer" />
-                <marker date="1647971543360" expanded="true" signature="9249:9485" ph="select * fro... allocate_officer" />
-                <marker date="1647971543360" expanded="true" signature="9249:9487" ph="select * fro... allocate_officer" />
-                <marker date="1647971543360" expanded="true" signature="9249:9489" ph="select * fro... allocate_officer" />
-                <marker date="1647971543360" expanded="true" signature="9249:9514" ph="select * fro... allocate_officer" />
-                <marker date="1647971543360" expanded="true" signature="9249:9566" ph="select * fro... allocate_officer" />
-                <marker date="1647971543360" expanded="true" signature="9249:9568" ph="select * fro... allocate_officer" />
-                <marker date="1647971543360" expanded="true" signature="9931:9943" ph="insert into s... " />
-                <marker date="1647971543360" expanded="true" signature="9931:9966" ph="insert into suggestion... " />
-                <marker date="1647971543360" expanded="true" signature="9931:10003" ph="insert into suggestion... " />
-                <marker date="1647971543360" expanded="true" signature="9931:10012" ph="insert into suggestion... " />
-                <marker date="1647971543360" expanded="true" signature="10587:10801" ph="select * fro... minister" />
-                <marker date="1647971543360" expanded="true" signature="11484:11535" ph="select * fro... allocate_officer" />
-                <marker date="1647971543360" expanded="true" signature="11484:11560" ph="select * fro... allocate_officer" />
-                <marker date="1647971543360" expanded="true" signature="11484:11562" ph="select * fro... allocate_officer" />
-                <marker date="1647971543360" expanded="true" signature="11657:11690" ph="insert into values... " />
-                <marker date="1647971543360" expanded="true" signature="11657:11705" ph="insert into values... " />
-                <marker date="1647971543360" expanded="true" signature="11657:11718" ph="insert into values... " />
-                <marker date="1647971543360" expanded="true" signature="11657:11728" ph="insert into values... " />
-                <marker date="1647971543360" expanded="true" signature="11657:11738" ph="insert into values... " />
-                <marker date="1647971543360" expanded="true" signature="11657:11740" ph="insert into values... " />
-                <marker date="1647971543360" expanded="true" signature="12217:12251" ph="insert into complaint... " />
-                <marker date="1647971543360" expanded="true" signature="12217:12278" ph="insert into complaint... " />
-                <marker date="1647971543360" expanded="true" signature="12217:12287" ph="insert into complaint... " />
-                <marker date="1647971543360" expanded="true" signature="12217:12298" ph="insert into complaint... " />
-                <marker date="1647971543360" expanded="true" signature="12217:12317" ph="insert into complaint... " />
-                <marker date="1647971543360" expanded="true" signature="12689:12726" ph="select * fro... complaint" />
-                <marker date="1647971543360" expanded="true" signature="12689:12731" ph="select * fro... complaint" />
-                <marker date="1647971543360" expanded="true" signature="12689:12756" ph="select * fro... complaint" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login1.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/login1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+            <state relative-caret-position="524">
+              <caret line="81" column="11" lean-forward="false" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <file leaf-file-name="send_reply.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/Admin/send_reply.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="42" />
+            <state relative-caret-position="462">
+              <caret line="22" column="11" lean-forward="false" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/login/css/main.css">
+      <file leaf-file-name="view_complaint.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/Admin/view_complaint.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="524">
+              <caret line="52" column="11" lean-forward="false" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="db_connection.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db_connection.py">
+      <file leaf-file-name="view_minister.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/Admin/view_minister.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="524">
+              <caret line="42" column="11" lean-forward="false" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="importent_document_to_minister.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/officer/importent_document_to_minister.html">
+      <file leaf-file-name="view_officer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/Admin/view_officer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="41" />
+            <state relative-caret-position="524">
+              <caret line="43" column="11" lean-forward="false" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="minister_Registration_form.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/Admin/minister_Registration_form.html">
+      <file leaf-file-name="view_suggestions.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/Admin/view_suggestions.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="70" column="7" lean-forward="false" selection-start-line="66" selection-start-column="2" selection-end-line="70" selection-end-column="7" />
+            <state relative-caret-position="524">
+              <caret line="30" column="11" lean-forward="false" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="minister_send_suggestions.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/minister/minister_send_suggestions.html">
+      <file leaf-file-name="add_department.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/Admin/add_department.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="73" lean-forward="false" selection-start-line="11" selection-start-column="73" selection-end-line="11" selection-end-column="73" />
+            <state relative-caret-position="314">
+              <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="officer_send_complaint.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/officer/officer_send_complaint.html">
+      <file leaf-file-name="allocate_minister.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/Admin/allocate_minister.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="73" lean-forward="false" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
+            <state relative-caret-position="524">
+              <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="allocate_officer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/Admin/allocate_officer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="524">
+              <caret line="27" column="11" lean-forward="false" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index-1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/Admin/index-1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28">
+              <caret line="560" column="24" lean-forward="false" selection-start-line="560" selection-start-column="24" selection-end-line="560" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -300,6 +157,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Best Seller</find>
+      <find>analytics das</find>
+      <find>add</find>
+      <find>block body</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -307,13 +172,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/db_connection.py" />
-        <option value="$PROJECT_DIR$/templates/Admin/admin_home.html" />
         <option value="$PROJECT_DIR$/templates/login.html" />
-        <option value="$PROJECT_DIR$/templates/Admin/view_suggestions.html" />
-        <option value="$PROJECT_DIR$/templates/Admin/view_complaint.html" />
-        <option value="$PROJECT_DIR$/templates/Admin/allocate_officer.html" />
-        <option value="$PROJECT_DIR$/templates/Admin/view_officer.html" />
-        <option value="$PROJECT_DIR$/templates/Admin/view_minister.html" />
         <option value="$PROJECT_DIR$/templates/minister/minister_profile.html" />
         <option value="$PROJECT_DIR$/templates/minister/minister_home.html" />
         <option value="$PROJECT_DIR$/templates/minister/minister_officer_view.html" />
@@ -321,16 +180,23 @@
         <option value="$PROJECT_DIR$/templates/officer/officer_home.html" />
         <option value="$PROJECT_DIR$/templates/officer/officer_profile.html" />
         <option value="$PROJECT_DIR$/templates/officer/officer_view_complaint_reply.html" />
-        <option value="$PROJECT_DIR$/templates/Admin/add_department.html" />
-        <option value="$PROJECT_DIR$/templates/Admin/allocate_minister.html" />
-        <option value="$PROJECT_DIR$/templates/Admin/minister_Registration_form.html" />
-        <option value="$PROJECT_DIR$/templates/Admin/officer_registration_form.html" />
-        <option value="$PROJECT_DIR$/templates/Admin/send_reply.html" />
         <option value="$PROJECT_DIR$/templates/minister/minister_send_suggestions.html" />
         <option value="$PROJECT_DIR$/templates/officer/officer_send_complaint.html" />
         <option value="$PROJECT_DIR$/templates/officer/importent_document_to_minister.html" />
-        <option value="$PROJECT_DIR$/secure sharing of data.py" />
         <option value="$PROJECT_DIR$/templates/login1.html" />
+        <option value="$PROJECT_DIR$/secure sharing of data.py" />
+        <option value="$PROJECT_DIR$/templates/Admin/admin_home.html" />
+        <option value="$PROJECT_DIR$/templates/Admin/allocate_minister.html" />
+        <option value="$PROJECT_DIR$/templates/Admin/allocate_officer.html" />
+        <option value="$PROJECT_DIR$/templates/Admin/minister_Registration_form.html" />
+        <option value="$PROJECT_DIR$/templates/Admin/officer_registration_form.html" />
+        <option value="$PROJECT_DIR$/templates/Admin/send_reply.html" />
+        <option value="$PROJECT_DIR$/templates/Admin/view_complaint.html" />
+        <option value="$PROJECT_DIR$/templates/Admin/view_minister.html" />
+        <option value="$PROJECT_DIR$/templates/Admin/view_officer.html" />
+        <option value="$PROJECT_DIR$/templates/Admin/view_suggestions.html" />
+        <option value="$PROJECT_DIR$/templates/Admin/index-1.html" />
+        <option value="$PROJECT_DIR$/templates/Admin/add_department.html" />
       </list>
     </option>
   </component>
@@ -361,8 +227,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -386,6 +252,42 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="secure sharing of data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="secure sharing of data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="officer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="secure sharing of data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="secure sharing of data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -443,6 +345,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="secure sharing of data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="secure sharing of data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="secure sharing of data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="secure sharing of data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -452,11 +394,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\BEST\PycharmProjects\secure sharing of data\static\home" />
+      <recent name="C:\Users\BEST\PycharmProjects\secure sharing of data\templates\Admin" />
       <recent name="C:\Users\BEST\PycharmProjects\secure sharing of data\static\login" />
       <recent name="C:\Users\BEST\PycharmProjects\secure sharing of data\templates" />
       <recent name="C:\Users\BEST\PycharmProjects\secure sharing of data\templates\officer" />
-      <recent name="C:\Users\BEST\PycharmProjects\secure sharing of data\templates\minister" />
-      <recent name="C:\Users\BEST\PycharmProjects\secure sharing of data" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -657,7 +599,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1796875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -665,7 +608,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30845225" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30845225" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -691,20 +634,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/Admin/allocate_officer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Admin/allocate_minister.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/Admin/send_reply.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -761,66 +690,79 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#64#0" expanded="true" />
-            <marker date="1647971543360" expanded="true" signature="381:419" ph="select * fro... login" />
-            <marker date="1647971543360" expanded="true" signature="381:449" ph="select * fro... login" />
-            <marker date="1647971543360" expanded="true" signature="381:462" ph="select * fro... login" />
-            <marker date="1647971543360" expanded="true" signature="381:464" ph="select * fro... login" />
-            <marker date="1647971543360" expanded="true" signature="1326:1360" ph="insert into department... " />
-            <marker date="1647971543360" expanded="true" signature="1326:1361" ph="insert into department... " />
-            <marker date="1647971543360" expanded="true" signature="1326:1371" ph="insert into department... " />
-            <marker date="1647971543360" expanded="true" signature="1326:1373" ph="insert into department... " />
-            <marker date="1647971543360" expanded="true" signature="2593:2660" ph="insert into login... " />
-            <marker date="1647971543360" expanded="true" signature="2686:2839" ph="insert into minister... " />
-            <marker date="1647971543360" expanded="true" signature="3178:3200" ph="select * fro... minister" />
-            <marker date="1647971543360" expanded="true" signature="4328:4393" ph="insert into login... " />
-            <marker date="1647971543360" expanded="true" signature="4419:4571" ph="insert into officer... " />
-            <marker date="1647971543360" expanded="true" signature="4909:4930" ph="select * fro... officer" />
-            <marker date="1647971543360" expanded="true" signature="5526:5568" ph="insert into allocate_minister... " />
-            <marker date="1647971543360" expanded="true" signature="5526:5585" ph="insert into allocate_minister... " />
-            <marker date="1647971543360" expanded="true" signature="5526:5596" ph="insert into allocate_minister... " />
-            <marker date="1647971543360" expanded="true" signature="5526:5606" ph="insert into allocate_minister... " />
-            <marker date="1647971543360" expanded="true" signature="5777:5801" ph="select * fro... department" />
-            <marker date="1647971543360" expanded="true" signature="6169:6209" ph="insert into allocate_officer... " />
-            <marker date="1647971543360" expanded="true" signature="6169:6210" ph="insert into allocate_officer... " />
-            <marker date="1647971543360" expanded="true" signature="6169:6221" ph="insert into allocate_officer... " />
-            <marker date="1647971543360" expanded="true" signature="6169:6237" ph="insert into allocate_officer... " />
-            <marker date="1647971543360" expanded="true" signature="6415:6439" ph="select * fro... department" />
-            <marker date="1647971543360" expanded="true" signature="6688:6775" ph="SELECT * FRO... minister" />
-            <marker date="1647971543360" expanded="true" signature="7015:7133" ph="SELECT * FRO... officer" />
-            <marker date="1647971543360" expanded="true" signature="7162:7286" ph="SELECT * FRO... minister" />
-            <marker date="1647971543360" expanded="true" signature="7647:7746" ph="update compl... " />
-            <marker date="1647971543360" expanded="true" signature="8292:8505" ph="select * fro... minister" />
-            <marker date="1647971543360" expanded="true" signature="8759:8811" ph="select * fro... allocate_officer" />
-            <marker date="1647971543360" expanded="true" signature="8759:8971" ph="select * fro... allocate_officer" />
-            <marker date="1647971543360" expanded="true" signature="8759:8996" ph="select * fro... allocate_officer" />
-            <marker date="1647971543360" expanded="true" signature="9249:9485" ph="select * fro... allocate_officer" />
-            <marker date="1647971543360" expanded="true" signature="9249:9487" ph="select * fro... allocate_officer" />
-            <marker date="1647971543360" expanded="true" signature="9249:9489" ph="select * fro... allocate_officer" />
-            <marker date="1647971543360" expanded="true" signature="9249:9514" ph="select * fro... allocate_officer" />
-            <marker date="1647971543360" expanded="true" signature="9249:9566" ph="select * fro... allocate_officer" />
-            <marker date="1647971543360" expanded="true" signature="9249:9568" ph="select * fro... allocate_officer" />
-            <marker date="1647971543360" expanded="true" signature="9931:9943" ph="insert into s... " />
-            <marker date="1647971543360" expanded="true" signature="9931:9966" ph="insert into suggestion... " />
-            <marker date="1647971543360" expanded="true" signature="9931:10003" ph="insert into suggestion... " />
-            <marker date="1647971543360" expanded="true" signature="9931:10012" ph="insert into suggestion... " />
-            <marker date="1647971543360" expanded="true" signature="10587:10801" ph="select * fro... minister" />
-            <marker date="1647971543360" expanded="true" signature="11484:11535" ph="select * fro... allocate_officer" />
-            <marker date="1647971543360" expanded="true" signature="11484:11560" ph="select * fro... allocate_officer" />
-            <marker date="1647971543360" expanded="true" signature="11484:11562" ph="select * fro... allocate_officer" />
-            <marker date="1647971543360" expanded="true" signature="11657:11690" ph="insert into values... " />
-            <marker date="1647971543360" expanded="true" signature="11657:11705" ph="insert into values... " />
-            <marker date="1647971543360" expanded="true" signature="11657:11718" ph="insert into values... " />
-            <marker date="1647971543360" expanded="true" signature="11657:11728" ph="insert into values... " />
-            <marker date="1647971543360" expanded="true" signature="11657:11738" ph="insert into values... " />
-            <marker date="1647971543360" expanded="true" signature="11657:11740" ph="insert into values... " />
-            <marker date="1647971543360" expanded="true" signature="12217:12251" ph="insert into complaint... " />
-            <marker date="1647971543360" expanded="true" signature="12217:12278" ph="insert into complaint... " />
-            <marker date="1647971543360" expanded="true" signature="12217:12287" ph="insert into complaint... " />
-            <marker date="1647971543360" expanded="true" signature="12217:12298" ph="insert into complaint... " />
-            <marker date="1647971543360" expanded="true" signature="12217:12317" ph="insert into complaint... " />
-            <marker date="1647971543360" expanded="true" signature="12689:12726" ph="select * fro... complaint" />
-            <marker date="1647971543360" expanded="true" signature="12689:12731" ph="select * fro... complaint" />
-            <marker date="1647971543360" expanded="true" signature="12689:12756" ph="select * fro... complaint" />
+            <marker date="1648144571997" expanded="true" signature="381:419" ph="select * fro... login" />
+            <marker date="1648144571997" expanded="true" signature="381:449" ph="select * fro... login" />
+            <marker date="1648144571997" expanded="true" signature="381:462" ph="select * fro... login" />
+            <marker date="1648144571997" expanded="true" signature="381:464" ph="select * fro... login" />
+            <marker date="1648144571997" expanded="true" signature="1326:1360" ph="insert into department... " />
+            <marker date="1648144571997" expanded="true" signature="1326:1361" ph="insert into department... " />
+            <marker date="1648144571997" expanded="true" signature="1326:1371" ph="insert into department... " />
+            <marker date="1648144571997" expanded="true" signature="1326:1373" ph="insert into department... " />
+            <marker date="1648144571997" expanded="true" signature="2593:2660" ph="insert into login... " />
+            <marker date="1648144571997" expanded="true" signature="2686:2839" ph="insert into minister... " />
+            <marker date="1648144571997" expanded="true" signature="3178:3200" ph="select * fro... minister" />
+            <marker date="1648144571997" expanded="true" signature="4328:4393" ph="insert into login... " />
+            <marker date="1648144571997" expanded="true" signature="4419:4571" ph="insert into officer... " />
+            <marker date="1648144571997" expanded="true" signature="4909:4930" ph="select * fro... officer" />
+            <marker date="1648144571997" expanded="true" signature="5531:5584" ph="select * fro... alloacate_minister" />
+            <marker date="1648144571997" expanded="true" signature="5531:5593" ph="select * fro... alloacate_minister" />
+            <marker date="1648144571997" expanded="true" signature="5531:5609" ph="select * fro... alloacate_minister" />
+            <marker date="1648144571997" expanded="true" signature="5531:5624" ph="select * fro... alloacate_minister" />
+            <marker date="1648144571997" expanded="true" signature="5681:5723" ph="insert into allocate_minister... " />
+            <marker date="1648144571997" expanded="true" signature="5681:5740" ph="insert into allocate_minister... " />
+            <marker date="1648144571997" expanded="true" signature="5681:5751" ph="insert into allocate_minister... " />
+            <marker date="1648144571997" expanded="true" signature="5681:5761" ph="insert into allocate_minister... " />
+            <marker date="1648144571997" expanded="true" signature="6061:6085" ph="select * fro... department" />
+            <marker date="1648144571997" expanded="true" signature="6297:6339" ph="delete from " />
+            <marker date="1648144571997" expanded="true" signature="6297:6348" ph="delete from " />
+            <marker date="1648144571997" expanded="true" signature="6366:6402" ph="delete from " />
+            <marker date="1648144571997" expanded="true" signature="6366:6411" ph="delete from " />
+            <marker date="1648144571997" expanded="true" signature="6598:6617" ph="delete from " />
+            <marker date="1648144571997" expanded="true" signature="6598:6632" ph="delete from " />
+            <marker date="1648144571997" expanded="true" signature="6598:6638" ph="delete from " />
+            <marker date="1648144571997" expanded="true" signature="6598:6647" ph="delete from " />
+            <marker date="1648144571997" expanded="true" signature="6665:6714" ph="delete from " />
+            <marker date="1648144571997" expanded="true" signature="7056:7096" ph="insert into allocate_officer... " />
+            <marker date="1648144571997" expanded="true" signature="7056:7097" ph="insert into allocate_officer... " />
+            <marker date="1648144571997" expanded="true" signature="7056:7108" ph="insert into allocate_officer... " />
+            <marker date="1648144571997" expanded="true" signature="7056:7124" ph="insert into allocate_officer... " />
+            <marker date="1648144571997" expanded="true" signature="7302:7326" ph="select * fro... department" />
+            <marker date="1648144571997" expanded="true" signature="7575:7662" ph="SELECT * FRO... minister" />
+            <marker date="1648144571997" expanded="true" signature="7902:8020" ph="SELECT * FRO... officer" />
+            <marker date="1648144571997" expanded="true" signature="8049:8173" ph="SELECT * FRO... minister" />
+            <marker date="1648144571997" expanded="true" signature="8534:8633" ph="update compl... " />
+            <marker date="1648144571997" expanded="true" signature="9179:9392" ph="select * fro... minister" />
+            <marker date="1648144571997" expanded="true" signature="9646:9698" ph="select * fro... allocate_officer" />
+            <marker date="1648144571997" expanded="true" signature="9646:9858" ph="select * fro... allocate_officer" />
+            <marker date="1648144571997" expanded="true" signature="9646:9883" ph="select * fro... allocate_officer" />
+            <marker date="1648144571997" expanded="true" signature="10136:10372" ph="select * fro... allocate_officer" />
+            <marker date="1648144571997" expanded="true" signature="10136:10374" ph="select * fro... allocate_officer" />
+            <marker date="1648144571997" expanded="true" signature="10136:10376" ph="select * fro... allocate_officer" />
+            <marker date="1648144571997" expanded="true" signature="10136:10401" ph="select * fro... allocate_officer" />
+            <marker date="1648144571997" expanded="true" signature="10136:10453" ph="select * fro... allocate_officer" />
+            <marker date="1648144571997" expanded="true" signature="10136:10455" ph="select * fro... allocate_officer" />
+            <marker date="1648144571997" expanded="true" signature="10818:10830" ph="insert into s... " />
+            <marker date="1648144571997" expanded="true" signature="10818:10853" ph="insert into suggestion... " />
+            <marker date="1648144571997" expanded="true" signature="10818:10890" ph="insert into suggestion... " />
+            <marker date="1648144571997" expanded="true" signature="10818:10899" ph="insert into suggestion... " />
+            <marker date="1648144571997" expanded="true" signature="11474:11688" ph="select * fro... minister" />
+            <marker date="1648144571997" expanded="true" signature="12371:12422" ph="select * fro... allocate_officer" />
+            <marker date="1648144571997" expanded="true" signature="12371:12447" ph="select * fro... allocate_officer" />
+            <marker date="1648144571997" expanded="true" signature="12371:12449" ph="select * fro... allocate_officer" />
+            <marker date="1648144571997" expanded="true" signature="12544:12577" ph="insert into values... " />
+            <marker date="1648144571997" expanded="true" signature="12544:12592" ph="insert into values... " />
+            <marker date="1648144571997" expanded="true" signature="12544:12605" ph="insert into values... " />
+            <marker date="1648144571997" expanded="true" signature="12544:12615" ph="insert into values... " />
+            <marker date="1648144571997" expanded="true" signature="12544:12625" ph="insert into values... " />
+            <marker date="1648144571997" expanded="true" signature="12544:12627" ph="insert into values... " />
+            <marker date="1648144571997" expanded="true" signature="13104:13138" ph="insert into complaint... " />
+            <marker date="1648144571997" expanded="true" signature="13104:13165" ph="insert into complaint... " />
+            <marker date="1648144571997" expanded="true" signature="13104:13174" ph="insert into complaint... " />
+            <marker date="1648144571997" expanded="true" signature="13104:13185" ph="insert into complaint... " />
+            <marker date="1648144571997" expanded="true" signature="13104:13204" ph="insert into complaint... " />
+            <marker date="1648144571997" expanded="true" signature="13576:13613" ph="select * fro... complaint" />
+            <marker date="1648144571997" expanded="true" signature="13576:13618" ph="select * fro... complaint" />
+            <marker date="1648144571997" expanded="true" signature="13576:13643" ph="select * fro... complaint" />
           </folding>
         </state>
       </provider>
@@ -896,41 +838,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Admin/allocate_officer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Admin/view_suggestions.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Admin/view_officer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="30" column="71" lean-forward="false" selection-start-line="30" selection-start-column="71" selection-end-line="30" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Admin/admin_home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="59" lean-forward="true" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Admin/view_minister.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="30" column="67" lean-forward="false" selection-start-line="30" selection-start-column="67" selection-end-line="30" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/minister/minister_profile.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -988,51 +895,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Admin/add_department.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Admin/allocate_minister.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="67" lean-forward="false" selection-start-line="21" selection-start-column="67" selection-end-line="21" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Admin/officer_registration_form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="29" column="23" lean-forward="false" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Admin/send_reply.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Admin/view_complaint.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="987">
-          <caret line="47" column="7" lean-forward="false" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/officer/officer_view_complaint_reply.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="20" column="2" lean-forward="false" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1052,14 +918,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Admin/minister_Registration_form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="70" column="7" lean-forward="false" selection-start-line="66" selection-start-column="2" selection-end-line="70" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/officer/importent_document_to_minister.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -1070,103 +928,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db_connection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
+        <state relative-caret-position="399">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/login2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/login3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login2.html" />
+    <entry file="file://$PROJECT_DIR$/templates/login3.html" />
     <entry file="file://$PROJECT_DIR$/static/login/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/secure sharing of data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#64#0" expanded="true" />
-            <marker date="1647971543360" expanded="true" signature="381:419" ph="select * fro... login" />
-            <marker date="1647971543360" expanded="true" signature="381:449" ph="select * fro... login" />
-            <marker date="1647971543360" expanded="true" signature="381:462" ph="select * fro... login" />
-            <marker date="1647971543360" expanded="true" signature="381:464" ph="select * fro... login" />
-            <marker date="1647971543360" expanded="true" signature="1326:1360" ph="insert into department... " />
-            <marker date="1647971543360" expanded="true" signature="1326:1361" ph="insert into department... " />
-            <marker date="1647971543360" expanded="true" signature="1326:1371" ph="insert into department... " />
-            <marker date="1647971543360" expanded="true" signature="1326:1373" ph="insert into department... " />
-            <marker date="1647971543360" expanded="true" signature="2593:2660" ph="insert into login... " />
-            <marker date="1647971543360" expanded="true" signature="2686:2839" ph="insert into minister... " />
-            <marker date="1647971543360" expanded="true" signature="3178:3200" ph="select * fro... minister" />
-            <marker date="1647971543360" expanded="true" signature="4328:4393" ph="insert into login... " />
-            <marker date="1647971543360" expanded="true" signature="4419:4571" ph="insert into officer... " />
-            <marker date="1647971543360" expanded="true" signature="4909:4930" ph="select * fro... officer" />
-            <marker date="1647971543360" expanded="true" signature="5526:5568" ph="insert into allocate_minister... " />
-            <marker date="1647971543360" expanded="true" signature="5526:5585" ph="insert into allocate_minister... " />
-            <marker date="1647971543360" expanded="true" signature="5526:5596" ph="insert into allocate_minister... " />
-            <marker date="1647971543360" expanded="true" signature="5526:5606" ph="insert into allocate_minister... " />
-            <marker date="1647971543360" expanded="true" signature="5777:5801" ph="select * fro... department" />
-            <marker date="1647971543360" expanded="true" signature="6169:6209" ph="insert into allocate_officer... " />
-            <marker date="1647971543360" expanded="true" signature="6169:6210" ph="insert into allocate_officer... " />
-            <marker date="1647971543360" expanded="true" signature="6169:6221" ph="insert into allocate_officer... " />
-            <marker date="1647971543360" expanded="true" signature="6169:6237" ph="insert into allocate_officer... " />
-            <marker date="1647971543360" expanded="true" signature="6415:6439" ph="select * fro... department" />
-            <marker date="1647971543360" expanded="true" signature="6688:6775" ph="SELECT * FRO... minister" />
-            <marker date="1647971543360" expanded="true" signature="7015:7133" ph="SELECT * FRO... officer" />
-            <marker date="1647971543360" expanded="true" signature="7162:7286" ph="SELECT * FRO... minister" />
-            <marker date="1647971543360" expanded="true" signature="7647:7746" ph="update compl... " />
-            <marker date="1647971543360" expanded="true" signature="8292:8505" ph="select * fro... minister" />
-            <marker date="1647971543360" expanded="true" signature="8759:8811" ph="select * fro... allocate_officer" />
-            <marker date="1647971543360" expanded="true" signature="8759:8971" ph="select * fro... allocate_officer" />
-            <marker date="1647971543360" expanded="true" signature="8759:8996" ph="select * fro... allocate_officer" />
-            <marker date="1647971543360" expanded="true" signature="9249:9485" ph="select * fro... allocate_officer" />
-            <marker date="1647971543360" expanded="true" signature="9249:9487" ph="select * fro... allocate_officer" />
-            <marker date="1647971543360" expanded="true" signature="9249:9489" ph="select * fro... allocate_officer" />
-            <marker date="1647971543360" expanded="true" signature="9249:9514" ph="select * fro... allocate_officer" />
-            <marker date="1647971543360" expanded="true" signature="9249:9566" ph="select * fro... allocate_officer" />
-            <marker date="1647971543360" expanded="true" signature="9249:9568" ph="select * fro... allocate_officer" />
-            <marker date="1647971543360" expanded="true" signature="9931:9943" ph="insert into s... " />
-            <marker date="1647971543360" expanded="true" signature="9931:9966" ph="insert into suggestion... " />
-            <marker date="1647971543360" expanded="true" signature="9931:10003" ph="insert into suggestion... " />
-            <marker date="1647971543360" expanded="true" signature="9931:10012" ph="insert into suggestion... " />
-            <marker date="1647971543360" expanded="true" signature="10587:10801" ph="select * fro... minister" />
-            <marker date="1647971543360" expanded="true" signature="11484:11535" ph="select * fro... allocate_officer" />
-            <marker date="1647971543360" expanded="true" signature="11484:11560" ph="select * fro... allocate_officer" />
-            <marker date="1647971543360" expanded="true" signature="11484:11562" ph="select * fro... allocate_officer" />
-            <marker date="1647971543360" expanded="true" signature="11657:11690" ph="insert into values... " />
-            <marker date="1647971543360" expanded="true" signature="11657:11705" ph="insert into values... " />
-            <marker date="1647971543360" expanded="true" signature="11657:11718" ph="insert into values... " />
-            <marker date="1647971543360" expanded="true" signature="11657:11728" ph="insert into values... " />
-            <marker date="1647971543360" expanded="true" signature="11657:11738" ph="insert into values... " />
-            <marker date="1647971543360" expanded="true" signature="11657:11740" ph="insert into values... " />
-            <marker date="1647971543360" expanded="true" signature="12217:12251" ph="insert into complaint... " />
-            <marker date="1647971543360" expanded="true" signature="12217:12278" ph="insert into complaint... " />
-            <marker date="1647971543360" expanded="true" signature="12217:12287" ph="insert into complaint... " />
-            <marker date="1647971543360" expanded="true" signature="12217:12298" ph="insert into complaint... " />
-            <marker date="1647971543360" expanded="true" signature="12217:12317" ph="insert into complaint... " />
-            <marker date="1647971543360" expanded="true" signature="12689:12726" ph="select * fro... complaint" />
-            <marker date="1647971543360" expanded="true" signature="12689:12731" ph="select * fro... complaint" />
-            <marker date="1647971543360" expanded="true" signature="12689:12756" ph="select * fro... complaint" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1180,8 +954,195 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/login1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+        <state relative-caret-position="672">
+          <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/home/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/secure sharing of data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="123" column="46" lean-forward="true" selection-start-line="123" selection-start-column="46" selection-end-line="123" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+            <marker date="1648144571997" expanded="true" signature="381:419" ph="select * fro... login" />
+            <marker date="1648144571997" expanded="true" signature="381:449" ph="select * fro... login" />
+            <marker date="1648144571997" expanded="true" signature="381:462" ph="select * fro... login" />
+            <marker date="1648144571997" expanded="true" signature="381:464" ph="select * fro... login" />
+            <marker date="1648144571997" expanded="true" signature="1326:1360" ph="insert into department... " />
+            <marker date="1648144571997" expanded="true" signature="1326:1361" ph="insert into department... " />
+            <marker date="1648144571997" expanded="true" signature="1326:1371" ph="insert into department... " />
+            <marker date="1648144571997" expanded="true" signature="1326:1373" ph="insert into department... " />
+            <marker date="1648144571997" expanded="true" signature="2593:2660" ph="insert into login... " />
+            <marker date="1648144571997" expanded="true" signature="2686:2839" ph="insert into minister... " />
+            <marker date="1648144571997" expanded="true" signature="3178:3200" ph="select * fro... minister" />
+            <marker date="1648144571997" expanded="true" signature="4328:4393" ph="insert into login... " />
+            <marker date="1648144571997" expanded="true" signature="4419:4571" ph="insert into officer... " />
+            <marker date="1648144571997" expanded="true" signature="4909:4930" ph="select * fro... officer" />
+            <marker date="1648144571997" expanded="true" signature="5531:5584" ph="select * fro... alloacate_minister" />
+            <marker date="1648144571997" expanded="true" signature="5531:5593" ph="select * fro... alloacate_minister" />
+            <marker date="1648144571997" expanded="true" signature="5531:5609" ph="select * fro... alloacate_minister" />
+            <marker date="1648144571997" expanded="true" signature="5531:5624" ph="select * fro... alloacate_minister" />
+            <marker date="1648144571997" expanded="true" signature="5681:5723" ph="insert into allocate_minister... " />
+            <marker date="1648144571997" expanded="true" signature="5681:5740" ph="insert into allocate_minister... " />
+            <marker date="1648144571997" expanded="true" signature="5681:5751" ph="insert into allocate_minister... " />
+            <marker date="1648144571997" expanded="true" signature="5681:5761" ph="insert into allocate_minister... " />
+            <marker date="1648144571997" expanded="true" signature="6061:6085" ph="select * fro... department" />
+            <marker date="1648144571997" expanded="true" signature="6297:6339" ph="delete from " />
+            <marker date="1648144571997" expanded="true" signature="6297:6348" ph="delete from " />
+            <marker date="1648144571997" expanded="true" signature="6366:6402" ph="delete from " />
+            <marker date="1648144571997" expanded="true" signature="6366:6411" ph="delete from " />
+            <marker date="1648144571997" expanded="true" signature="6598:6617" ph="delete from " />
+            <marker date="1648144571997" expanded="true" signature="6598:6632" ph="delete from " />
+            <marker date="1648144571997" expanded="true" signature="6598:6638" ph="delete from " />
+            <marker date="1648144571997" expanded="true" signature="6598:6647" ph="delete from " />
+            <marker date="1648144571997" expanded="true" signature="6665:6714" ph="delete from " />
+            <marker date="1648144571997" expanded="true" signature="7056:7096" ph="insert into allocate_officer... " />
+            <marker date="1648144571997" expanded="true" signature="7056:7097" ph="insert into allocate_officer... " />
+            <marker date="1648144571997" expanded="true" signature="7056:7108" ph="insert into allocate_officer... " />
+            <marker date="1648144571997" expanded="true" signature="7056:7124" ph="insert into allocate_officer... " />
+            <marker date="1648144571997" expanded="true" signature="7302:7326" ph="select * fro... department" />
+            <marker date="1648144571997" expanded="true" signature="7575:7662" ph="SELECT * FRO... minister" />
+            <marker date="1648144571997" expanded="true" signature="7902:8020" ph="SELECT * FRO... officer" />
+            <marker date="1648144571997" expanded="true" signature="8049:8173" ph="SELECT * FRO... minister" />
+            <marker date="1648144571997" expanded="true" signature="8534:8633" ph="update compl... " />
+            <marker date="1648144571997" expanded="true" signature="9179:9392" ph="select * fro... minister" />
+            <marker date="1648144571997" expanded="true" signature="9646:9698" ph="select * fro... allocate_officer" />
+            <marker date="1648144571997" expanded="true" signature="9646:9858" ph="select * fro... allocate_officer" />
+            <marker date="1648144571997" expanded="true" signature="9646:9883" ph="select * fro... allocate_officer" />
+            <marker date="1648144571997" expanded="true" signature="10136:10372" ph="select * fro... allocate_officer" />
+            <marker date="1648144571997" expanded="true" signature="10136:10374" ph="select * fro... allocate_officer" />
+            <marker date="1648144571997" expanded="true" signature="10136:10376" ph="select * fro... allocate_officer" />
+            <marker date="1648144571997" expanded="true" signature="10136:10401" ph="select * fro... allocate_officer" />
+            <marker date="1648144571997" expanded="true" signature="10136:10453" ph="select * fro... allocate_officer" />
+            <marker date="1648144571997" expanded="true" signature="10136:10455" ph="select * fro... allocate_officer" />
+            <marker date="1648144571997" expanded="true" signature="10818:10830" ph="insert into s... " />
+            <marker date="1648144571997" expanded="true" signature="10818:10853" ph="insert into suggestion... " />
+            <marker date="1648144571997" expanded="true" signature="10818:10890" ph="insert into suggestion... " />
+            <marker date="1648144571997" expanded="true" signature="10818:10899" ph="insert into suggestion... " />
+            <marker date="1648144571997" expanded="true" signature="11474:11688" ph="select * fro... minister" />
+            <marker date="1648144571997" expanded="true" signature="12371:12422" ph="select * fro... allocate_officer" />
+            <marker date="1648144571997" expanded="true" signature="12371:12447" ph="select * fro... allocate_officer" />
+            <marker date="1648144571997" expanded="true" signature="12371:12449" ph="select * fro... allocate_officer" />
+            <marker date="1648144571997" expanded="true" signature="12544:12577" ph="insert into values... " />
+            <marker date="1648144571997" expanded="true" signature="12544:12592" ph="insert into values... " />
+            <marker date="1648144571997" expanded="true" signature="12544:12605" ph="insert into values... " />
+            <marker date="1648144571997" expanded="true" signature="12544:12615" ph="insert into values... " />
+            <marker date="1648144571997" expanded="true" signature="12544:12625" ph="insert into values... " />
+            <marker date="1648144571997" expanded="true" signature="12544:12627" ph="insert into values... " />
+            <marker date="1648144571997" expanded="true" signature="13104:13138" ph="insert into complaint... " />
+            <marker date="1648144571997" expanded="true" signature="13104:13165" ph="insert into complaint... " />
+            <marker date="1648144571997" expanded="true" signature="13104:13174" ph="insert into complaint... " />
+            <marker date="1648144571997" expanded="true" signature="13104:13185" ph="insert into complaint... " />
+            <marker date="1648144571997" expanded="true" signature="13104:13204" ph="insert into complaint... " />
+            <marker date="1648144571997" expanded="true" signature="13576:13613" ph="select * fro... complaint" />
+            <marker date="1648144571997" expanded="true" signature="13576:13618" ph="select * fro... complaint" />
+            <marker date="1648144571997" expanded="true" signature="13576:13643" ph="select * fro... complaint" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/admin_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/minister_Registration_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="81" column="11" lean-forward="false" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/officer_registration_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="81" column="11" lean-forward="false" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/send_reply.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="11" lean-forward="false" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/view_complaint.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="52" column="11" lean-forward="false" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/view_minister.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="42" column="11" lean-forward="false" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/view_officer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="43" column="11" lean-forward="false" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/view_suggestions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="30" column="11" lean-forward="false" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/index-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="560" column="24" lean-forward="false" selection-start-line="560" selection-start-column="24" selection-end-line="560" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/allocate_minister.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/allocate_officer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="27" column="11" lean-forward="false" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/add_department.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
           <folding />
         </state>
       </provider>
