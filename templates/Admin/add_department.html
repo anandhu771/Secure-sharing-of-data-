@@ -1,4 +1,4 @@
-{% extends 'Admin/index-1.html' %}
+{% extends 'Admin/index.html' %}
 {% block body %}
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -10,17 +10,16 @@
 </head>
 
 <body>
-<form id="form1" name="form1" method="post" action="">
-  <table class="table table-active" bgcolor="#f0f8ff"  border="2" >
-    <tr>
-        <th scope="row"><font color="black">Department Name </font></th>
-      <td><label for="textfield"></label>
-      <input type="text" name="textfield" class="form-control" id="textfield" required/></td>
+<form action="" method="get"><table class="table table-dark" border="1">
+  <tr>
+    <th scope="row">Department</th>
+    <td><label for="textfield"></label>
+      <input type="text" name="textfield" id="textfield" /></td>
+  </tr>
+  <tr>
+    <th colspan="2" scope="row"><input type="submit" name="button" id="button" value="Submit" /></th>
     </tr>
-    <tr>
-      <th colspan="2" scope="row"><input type="submit" name="button" id="button" value="Submit" /></th>
-    </tr>
-  </table>
+</table>
 </form>
 </body>
 </html>

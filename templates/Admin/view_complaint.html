@@ -1,4 +1,4 @@
-{% extends 'Admin/index-1.html' %}
+{% extends 'Admin/index.html' %}
 {% block body %}
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -9,8 +9,8 @@
 
 <body>
 <form action="" method="get">
-<h2>view officer complaints</h2>
-    <table width="200" border="1">
+<h2 style="color: Green;">View Officer Complaints</h2>
+    <table class="table table-dark" border="1">
   <tr>
     <th scope="col">#</th>
     <th scope="col">sender</th>
@@ -28,8 +28,11 @@
   </tr>
     {% endfor %}
 </table>
-<h2>view minister complaints</h2>
-<table width="200" border="1">
+<br>
+<br>
+<br>
+    <h2 style="color: green;">View Minister Complaints</h2>
+<table class="table table-dark" border="1">
   <tr>
     <th scope="col">#</th>
     <th scope="col">sender</th>

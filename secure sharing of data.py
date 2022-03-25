@@ -121,7 +121,7 @@ def view_officer():
 @app.route('/admin_home')
 def admin_home():
     if session['lg'] == "lin":
-        return render_template('Admin/index-1.html')
+        return render_template('Admin/index.html')
     else:
         return redirect('/')
 
