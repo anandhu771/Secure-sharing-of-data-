@@ -215,7 +215,7 @@ def send_reply(c_id):
 @app.route('/minister')
 def minister_home():
     if session['lg'] == "lin":
-        return render_template('minister/minister_home.html')
+        return render_template('minister/index.html')
     else:
         return redirect('/')
 
@@ -260,7 +260,7 @@ def minister_send_suggestion():
 @app.route('/officer')
 def officer_home():
     if session['lg'] == "lin":
-        return render_template('officer/officer_home.html')
+        return render_template('officer/index.html')
     else:
         return redirect('/')
 @app.route('/officer_profile')

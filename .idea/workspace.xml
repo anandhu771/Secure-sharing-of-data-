@@ -2,900 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5bc6e05-3515-4c13-b026-0290757bc4f6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Nunito/Nunito-Black.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Nunito/Nunito-Black.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Nunito/Nunito-Black.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Nunito/Nunito-Black.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Nunito/Nunito-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Nunito/Nunito-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Nunito/Nunito-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Nunito/Nunito-Bold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Nunito/Nunito-Light.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Nunito/Nunito-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Nunito/Nunito-Light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Nunito/Nunito-Light.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Nunito/Nunito-Regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Nunito/Nunito-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Nunito/Nunito-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Nunito/Nunito-Regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Nunito/Nunito-SemiBold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Nunito/Nunito-SemiBold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Nunito/Nunito-SemiBold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Nunito/Nunito-SemiBold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Ubuntu/Ubuntu-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Ubuntu/Ubuntu-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Ubuntu/Ubuntu-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Ubuntu/Ubuntu-Bold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Ubuntu/Ubuntu-Light.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Ubuntu/Ubuntu-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Ubuntu/Ubuntu-Light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Ubuntu/Ubuntu-Light.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Ubuntu/Ubuntu-Medium.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Ubuntu/Ubuntu-Medium.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Ubuntu/Ubuntu-Medium.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Ubuntu/Ubuntu-Medium.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Ubuntu/Ubuntu-Regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Ubuntu/Ubuntu-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Ubuntu/Ubuntu-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/fonts/Ubuntu/Ubuntu-Regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/auth/lockscreen-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/auth/login-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/auth/register-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/brand_icons/bitmap.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/brand_icons/oval-copy.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/brand_icons/oval.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/carousel/banner_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/carousel/banner_10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/carousel/banner_11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/carousel/banner_12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/carousel/banner_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/carousel/banner_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/carousel/banner_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/carousel/banner_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/carousel/banner_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/carousel/banner_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/carousel/banner_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/carousel/banner_9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/chat/profile_image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/chat/thumb_image1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/chat/thumb_image2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/chat/thumb_image3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/chat/thumb_image4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/chat/thumb_image5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/chat/thumb_image6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/chat/thumb_image7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/chat/thumb_image8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/dashboard/circle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/dashboard/img_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/dashboard/img_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/dashboard/img_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/dashboard/img_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/email/fb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/email/mail-image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/email/medium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/email/slack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/email/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/email/youtube.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces-clipart/pic-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces-clipart/pic-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces-clipart/pic-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces-clipart/pic-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face28.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/faces/face9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/128/001-interface-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/128/002-tool.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/128/003-interface.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/128/004-folder-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/128/005-database.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/128/006-record.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/128/007-folder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/128/008-archive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/256/001-interface-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/256/002-tool.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/256/003-interface.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/256/004-folder-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/256/005-database.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/256/006-record.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/256/007-folder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/256/008-archive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/512/001-interface-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/512/002-tool.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/512/003-interface.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/512/004-folder-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/512/005-database.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/512/006-record.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/512/007-folder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/512/008-archive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/64/001-interface-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/64/002-tool.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/64/003-interface.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/64/004-folder-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/64/005-database.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/64/006-record.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/64/007-folder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/64/008-archive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/Internet-Explorer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/Safari.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/chrome.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/extension/corrupted-file.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/extension/css.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/extension/database.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/extension/doc-file.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/extension/document.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/extension/download-file.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/extension/folder-open.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/extension/folder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/extension/git-file.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/extension/html.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/extension/js-file.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/extension/pdf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/extension/server-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/extension/server.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/extension/zip-file.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/extension/zip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/firefox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/opera.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/vivaldi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/lightbox/play-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/lightbox/thumb-v-v-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/lightbox/thumb-v-v-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/lightbox/thumb-v-y-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/lightbox/thumb-v-y-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images/Homepod.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images/apple-watch.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images/apple-watch_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images/baf.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images/ball.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images/beats-headphone.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images/headphone.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images/homepod_small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images/imac.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images/iphone-x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images/iphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images/macbook-pro.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images/magic-mouse.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images/shoe.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images/shoe_2.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images/shoe_3.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images/watch.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images_2/thumb_image1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images_2/thumb_image10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images_2/thumb_image11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images_2/thumb_image12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images_2/thumb_image2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images_2/thumb_image3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images_2/thumb_image4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images_2/thumb_image5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images_2/thumb_image6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images_2/thumb_image7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images_2/thumb_image8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/product_images_2/thumb_image9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/1280x768/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/1280x768/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/1280x768/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/1280x768/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/1280x768/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/1280x768/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/1280x768/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/1280x768/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/1280x768/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/1280x768/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/1280x768/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/1280x768/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/1280x768/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/1280x768/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/1280x768/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/300x300/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/300x300/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/300x300/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/300x300/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/300x300/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/300x300/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/300x300/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/300x300/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/300x300/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/300x300/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/300x300/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/300x300/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/300x300/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/300x300/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/300x300/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/Login_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/Login_bg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/Mac.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/angular-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/bg_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/bootstrap-stack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/charts.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/dashboard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/e-commerce.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/editors.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/email.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/footer_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/forms.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/html5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/invoice_banner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/lockscreen-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/modal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/popup.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/widgets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/screenshots/horizontal-dark.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/screenshots/horizontal-light.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/screenshots/vertical-dark.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/screenshots/vertical-light.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/sprites/blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/sprites/dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/sprites/flag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/sprites/green.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/sprites/jsgrid-icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/sprites/red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/sprites/yellow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/mdi/fonts/materialdesignicons-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/mdi/fonts/materialdesignicons-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/mdi/fonts/materialdesignicons-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/mdi/fonts/materialdesignicons-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/css/style.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/dashboard/circle.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/icon-3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/file-icons/icon-google.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/logo-dark.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/logo-mini.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/images/samples/weather.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/js/chart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/js/codemirror.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/js/dashboard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/js/file-upload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/js/hoverable-collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/js/misc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/js/off-canvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/js/select2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/js/settings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/js/todolist.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/js/typeahead.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/_auth.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/_background.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/_dashboard.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/_demo.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/_fonts.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/_footer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/_functions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/_layouts.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/_lock-screen.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/_misc.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/_navbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/_reset.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/_sidebar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/_typography.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/_utilities.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/_vertical-wrapper.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/_widget-grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/components/_badges.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/components/_bootstrap-progress.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/components/_breadcrumbs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/components/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/components/_cards.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/components/_chat.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/components/_checkbox-radio.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/components/_dropdown.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/components/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/components/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/components/_lists.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/components/_pagination.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/components/_preview.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/components/_tables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/components/_tabs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/components/plugin-overrides/_select2.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/components/plugin-overrides/_typeahead.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/mixins/_animation.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/mixins/_background.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/mixins/_badges.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/mixins/_blockqoute.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/mixins/_breadcrumbs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/mixins/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/mixins/_cards.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/mixins/_misc.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/scss/style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/bootstrap-datepicker/bootstrap-datepicker.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/bootstrap-datepicker/bootstrap-datepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/chart.js/Chart.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/codemirror/ambiance.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/codemirror/codemirror.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/codemirror/codemirror.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/codemirror/javascript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/codemirror/shell.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/css/vendor.bundle.base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/css/flag-icon.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ad.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ae.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/af.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ag.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ai.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/al.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/am.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ao.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/aq.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ar.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/as.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/at.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/au.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/aw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ax.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/az.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ba.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/bb.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/bd.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/be.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/bf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/bg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/bh.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/bi.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/bj.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/bl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/bm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/bn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/bo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/bq.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/br.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/bs.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/bt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/bv.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/bw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/by.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/bz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ca.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/cc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/cd.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/cf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/cg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ch.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ci.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ck.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/cl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/cm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/cn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/co.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/cr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/cu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/cv.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/cw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/cx.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/cy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/cz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/de.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/dj.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/dk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/dm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/do.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/dz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ec.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ee.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/eg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/eh.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/er.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/es-ca.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/es.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/et.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/eu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/fi.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/fj.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/fk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/fm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/fo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/fr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ga.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/gb-eng.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/gb-nir.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/gb-sct.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/gb-wls.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/gb.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/gd.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ge.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/gf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/gg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/gh.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/gi.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/gl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/gm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/gn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/gp.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/gq.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/gr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/gs.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/gt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/gu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/gw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/gy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/hk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/hm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/hn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/hr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ht.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/hu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/id.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ie.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/il.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/im.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/in.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/io.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/iq.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ir.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/is.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/it.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/je.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/jm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/jo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/jp.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ke.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/kg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/kh.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ki.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/km.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/kn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/kp.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/kr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/kw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ky.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/kz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/la.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/lb.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/lc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/li.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/lk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/lr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ls.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/lt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/lu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/lv.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ly.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ma.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/mc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/md.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/me.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/mf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/mg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/mh.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/mk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ml.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/mm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/mn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/mo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/mp.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/mq.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/mr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ms.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/mt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/mu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/mv.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/mw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/mx.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/my.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/mz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/na.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/nc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ne.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/nf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ng.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ni.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/nl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/no.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/np.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/nr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/nu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/nz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/om.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/pa.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/pe.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/pf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/pg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ph.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/pk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/pl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/pm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/pn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/pr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ps.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/pt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/pw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/py.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/qa.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/re.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ro.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/rs.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ru.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/rw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/sa.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/sb.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/sc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/sd.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/se.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/sg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/sh.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/si.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/sj.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/sk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/sl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/sm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/sn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/so.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/sr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ss.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/st.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/sv.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/sx.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/sy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/sz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/tc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/td.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/tf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/tg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/th.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/tj.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/tk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/tl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/tm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/tn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/to.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/tr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/tt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/tv.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/tw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/tz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ua.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ug.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/um.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/un.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/us.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/uy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/uz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/va.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/vc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ve.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/vg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/vi.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/vn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/vu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/wf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ws.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/xk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/ye.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/yt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/za.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/zm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/1x1/zw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ad.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ae.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/af.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ag.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ai.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/al.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/am.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ao.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/aq.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ar.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/as.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/at.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/au.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/aw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ax.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/az.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ba.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/bb.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/bd.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/be.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/bf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/bg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/bh.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/bi.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/bj.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/bl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/bm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/bn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/bo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/bq.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/br.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/bs.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/bt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/bv.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/bw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/by.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/bz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ca.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/cc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/cd.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/cf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/cg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ch.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ci.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ck.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/cl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/cm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/cn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/co.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/cr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/cu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/cv.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/cw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/cx.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/cy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/cz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/de.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/dj.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/dk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/dm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/do.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/dz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ec.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ee.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/eg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/eh.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/er.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/es-ca.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/es.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/et.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/eu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/fi.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/fj.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/fk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/fm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/fo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/fr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ga.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/gb-eng.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/gb-nir.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/gb-sct.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/gb-wls.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/gb.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/gd.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ge.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/gf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/gg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/gh.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/gi.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/gl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/gm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/gn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/gp.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/gq.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/gr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/gs.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/gt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/gu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/gw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/gy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/hk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/hm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/hn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/hr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ht.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/hu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/id.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ie.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/il.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/im.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/in.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/io.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/iq.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ir.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/is.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/it.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/je.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/jm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/jo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/jp.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ke.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/kg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/kh.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ki.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/km.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/kn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/kp.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/kr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/kw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ky.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/kz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/la.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/lb.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/lc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/li.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/lk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/lr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ls.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/lt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/lu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/lv.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ly.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ma.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/mc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/md.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/me.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/mf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/mg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/mh.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/mk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ml.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/mm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/mn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/mo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/mp.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/mq.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/mr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ms.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/mt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/mu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/mv.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/mw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/mx.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/my.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/mz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/na.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/nc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ne.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/nf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ng.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ni.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/nl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/no.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/np.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/nr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/nu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/nz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/om.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/pa.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/pe.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/pf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/pg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ph.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/pk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/pl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/pm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/pn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/pr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ps.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/pt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/pw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/py.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/qa.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/re.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ro.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/rs.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ru.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/rw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/sa.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/sb.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/sc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/sd.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/se.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/sg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/sh.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/si.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/sj.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/sk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/sl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/sm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/sn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/so.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/sr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ss.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/st.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/sv.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/sx.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/sy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/sz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/tc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/td.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/tf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/tg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/th.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/tj.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/tk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/tl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/tm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/tn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/to.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/tr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/tt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/tv.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/tw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/tz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ua.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ug.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/um.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/un.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/us.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/uy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/uz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/va.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/vc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ve.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/vg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/vi.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/vn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/vu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/wf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ws.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/xk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/ye.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/yt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/za.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/zm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/flag-icon-css/flags/4x3/zw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/jquery-circle-progress/js/circle-progress.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/js/bootstrap.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/js/vendor.bundle.base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/mdi/css/materialdesignicons.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/mdi/css/materialdesignicons.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/moment/moment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/moment/moment.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/progressbar.js/progressbar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/pwstabs/jquery.pwstabs.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/home/vendors/pwstabs/jquery.pwstabs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Admin/index.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/home/img/congrats.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/home/img/fav.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/home/img/food.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/home/img/happy.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/home/img/index-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/home/img/index.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/home/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/home/img/sneakers.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/home/img/soccer.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/home/img/socks.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/home/img/tailwindcss.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/home/img/user.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/home/img/user1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/home/img/user2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/home/img/user3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/home/js/scripts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/Admin/index-1.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/minister/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/officer/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/secure sharing of data.py" afterPath="$PROJECT_DIR$/secure sharing of data.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/home/css/style.css" afterPath="$PROJECT_DIR$/static/home/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Admin/add_department.html" afterPath="$PROJECT_DIR$/templates/Admin/add_department.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Admin/admin_home.html" afterPath="$PROJECT_DIR$/templates/Admin/admin_home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Admin/allocate_minister.html" afterPath="$PROJECT_DIR$/templates/Admin/allocate_minister.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Admin/allocate_officer.html" afterPath="$PROJECT_DIR$/templates/Admin/allocate_officer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Admin/minister_Registration_form.html" afterPath="$PROJECT_DIR$/templates/Admin/minister_Registration_form.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Admin/officer_registration_form.html" afterPath="$PROJECT_DIR$/templates/Admin/officer_registration_form.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Admin/view_complaint.html" afterPath="$PROJECT_DIR$/templates/Admin/view_complaint.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Admin/view_minister.html" afterPath="$PROJECT_DIR$/templates/Admin/view_minister.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Admin/view_officer.html" afterPath="$PROJECT_DIR$/templates/Admin/view_officer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Admin/view_suggestions.html" afterPath="$PROJECT_DIR$/templates/Admin/view_suggestions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/minister/inbox_from_officer.html" afterPath="$PROJECT_DIR$/templates/minister/inbox_from_officer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/minister/minister_home.html" afterPath="$PROJECT_DIR$/templates/minister/minister_home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/minister/minister_officer_view.html" afterPath="$PROJECT_DIR$/templates/minister/minister_officer_view.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/minister/minister_profile.html" afterPath="$PROJECT_DIR$/templates/minister/minister_profile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/minister/minister_send_suggestions.html" afterPath="$PROJECT_DIR$/templates/minister/minister_send_suggestions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/officer/importent_document_to_minister.html" afterPath="$PROJECT_DIR$/templates/officer/importent_document_to_minister.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/officer/officer_home.html" afterPath="$PROJECT_DIR$/templates/officer/officer_home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/officer/officer_profile.html" afterPath="$PROJECT_DIR$/templates/officer/officer_profile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/officer/officer_send_complaint.html" afterPath="$PROJECT_DIR$/templates/officer/officer_send_complaint.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/officer/officer_view_complaint_reply.html" afterPath="$PROJECT_DIR$/templates/officer/officer_view_complaint_reply.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -905,109 +25,180 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/secure_sharing_of_data$secure_sharing_of_data.coverage" NAME="secure sharing of data Coverage Results" MODIFIED="1648233265960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/secure_sharing_of_data$secure_sharing_of_data.coverage" NAME="secure sharing of data Coverage Results" MODIFIED="1648663558421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="officer_registration_form.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/Admin/officer_registration_form.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/minister/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="97" lean-forward="false" selection-start-line="9" selection-start-column="97" selection-end-line="9" selection-end-column="97" />
+            <state relative-caret-position="420">
+              <caret line="272" column="58" lean-forward="false" selection-start-line="272" selection-start-column="58" selection-end-line="272" selection-end-column="58" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="view_complaint.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/Admin/view_complaint.html">
+      <file leaf-file-name="secure sharing of data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/secure sharing of data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+            <state relative-caret-position="-400">
+              <caret line="262" column="45" lean-forward="false" selection-start-line="262" selection-start-column="45" selection-end-line="262" selection-end-column="45" />
               <folding>
-                <element signature="e#376#397#0#HTML" expanded="true" />
-                <element signature="e#967#988#0#HTML" expanded="true" />
+                <marker date="1648662813458" expanded="true" signature="381:419" ph="select * fro... login" />
+                <marker date="1648662813458" expanded="true" signature="381:449" ph="select * fro... login" />
+                <marker date="1648662813458" expanded="true" signature="381:462" ph="select * fro... login" />
+                <marker date="1648662813458" expanded="true" signature="381:464" ph="select * fro... login" />
+                <marker date="1648662813458" expanded="true" signature="1326:1360" ph="insert into department... " />
+                <marker date="1648662813458" expanded="true" signature="1326:1361" ph="insert into department... " />
+                <marker date="1648662813458" expanded="true" signature="1326:1371" ph="insert into department... " />
+                <marker date="1648662813458" expanded="true" signature="1326:1373" ph="insert into department... " />
+                <marker date="1648662813458" expanded="true" signature="2593:2660" ph="insert into login... " />
+                <marker date="1648662813458" expanded="true" signature="2686:2839" ph="insert into minister... " />
+                <marker date="1648662813458" expanded="true" signature="3178:3200" ph="select * fro... minister" />
+                <marker date="1648662813458" expanded="true" signature="4328:4393" ph="insert into login... " />
+                <marker date="1648662813458" expanded="true" signature="4419:4571" ph="insert into officer... " />
+                <marker date="1648662813458" expanded="true" signature="4909:4930" ph="select * fro... officer" />
+                <marker date="1648662813458" expanded="true" signature="5529:5582" ph="select * fro... alloacate_minister" />
+                <marker date="1648662813458" expanded="true" signature="5529:5591" ph="select * fro... alloacate_minister" />
+                <marker date="1648662813458" expanded="true" signature="5529:5607" ph="select * fro... alloacate_minister" />
+                <marker date="1648662813458" expanded="true" signature="5529:5622" ph="select * fro... alloacate_minister" />
+                <marker date="1648662813458" expanded="true" signature="5679:5721" ph="insert into allocate_minister... " />
+                <marker date="1648662813458" expanded="true" signature="5679:5738" ph="insert into allocate_minister... " />
+                <marker date="1648662813458" expanded="true" signature="5679:5749" ph="insert into allocate_minister... " />
+                <marker date="1648662813458" expanded="true" signature="5679:5759" ph="insert into allocate_minister... " />
+                <marker date="1648662813458" expanded="true" signature="6059:6083" ph="select * fro... department" />
+                <marker date="1648662813458" expanded="true" signature="6295:6337" ph="delete from " />
+                <marker date="1648662813458" expanded="true" signature="6295:6346" ph="delete from " />
+                <marker date="1648662813458" expanded="true" signature="6364:6400" ph="delete from " />
+                <marker date="1648662813458" expanded="true" signature="6364:6409" ph="delete from " />
+                <marker date="1648662813458" expanded="true" signature="6596:6615" ph="delete from " />
+                <marker date="1648662813458" expanded="true" signature="6596:6630" ph="delete from " />
+                <marker date="1648662813458" expanded="true" signature="6596:6636" ph="delete from " />
+                <marker date="1648662813458" expanded="true" signature="6596:6645" ph="delete from " />
+                <marker date="1648662813458" expanded="true" signature="6663:6712" ph="delete from " />
+                <marker date="1648662813458" expanded="true" signature="7054:7094" ph="insert into allocate_officer... " />
+                <marker date="1648662813458" expanded="true" signature="7054:7095" ph="insert into allocate_officer... " />
+                <marker date="1648662813458" expanded="true" signature="7054:7106" ph="insert into allocate_officer... " />
+                <marker date="1648662813458" expanded="true" signature="7054:7122" ph="insert into allocate_officer... " />
+                <marker date="1648662813458" expanded="true" signature="7300:7324" ph="select * fro... department" />
+                <marker date="1648662813458" expanded="true" signature="7573:7660" ph="SELECT * FRO... minister" />
+                <marker date="1648662813458" expanded="true" signature="7900:8018" ph="SELECT * FRO... officer" />
+                <marker date="1648662813458" expanded="true" signature="8047:8171" ph="SELECT * FRO... minister" />
+                <marker date="1648662813458" expanded="true" signature="8532:8631" ph="update compl... " />
+                <marker date="1648662813458" expanded="true" signature="9169:9382" ph="select * fro... minister" />
+                <marker date="1648662813458" expanded="true" signature="9636:9688" ph="select * fro... allocate_officer" />
+                <marker date="1648662813458" expanded="true" signature="9636:9848" ph="select * fro... allocate_officer" />
+                <marker date="1648662813458" expanded="true" signature="9636:9873" ph="select * fro... allocate_officer" />
+                <marker date="1648662813458" expanded="true" signature="10126:10362" ph="select * fro... allocate_officer" />
+                <marker date="1648662813458" expanded="true" signature="10126:10364" ph="select * fro... allocate_officer" />
+                <marker date="1648662813458" expanded="true" signature="10126:10366" ph="select * fro... allocate_officer" />
+                <marker date="1648662813458" expanded="true" signature="10126:10391" ph="select * fro... allocate_officer" />
+                <marker date="1648662813458" expanded="true" signature="10126:10443" ph="select * fro... allocate_officer" />
+                <marker date="1648662813458" expanded="true" signature="10126:10445" ph="select * fro... allocate_officer" />
+                <marker date="1648662813458" expanded="true" signature="10808:10820" ph="insert into s... " />
+                <marker date="1648662813458" expanded="true" signature="10808:10843" ph="insert into suggestion... " />
+                <marker date="1648662813458" expanded="true" signature="10808:10880" ph="insert into suggestion... " />
+                <marker date="1648662813458" expanded="true" signature="10808:10889" ph="insert into suggestion... " />
+                <marker date="1648662813458" expanded="true" signature="11457:11671" ph="select * fro... minister" />
+                <marker date="1648662813458" expanded="true" signature="12354:12405" ph="select * fro... allocate_officer" />
+                <marker date="1648662813458" expanded="true" signature="12354:12430" ph="select * fro... allocate_officer" />
+                <marker date="1648662813458" expanded="true" signature="12354:12432" ph="select * fro... allocate_officer" />
+                <marker date="1648662813458" expanded="true" signature="12527:12560" ph="insert into values... " />
+                <marker date="1648662813458" expanded="true" signature="12527:12575" ph="insert into values... " />
+                <marker date="1648662813458" expanded="true" signature="12527:12588" ph="insert into values... " />
+                <marker date="1648662813458" expanded="true" signature="12527:12598" ph="insert into values... " />
+                <marker date="1648662813458" expanded="true" signature="12527:12608" ph="insert into values... " />
+                <marker date="1648662813458" expanded="true" signature="12527:12610" ph="insert into values... " />
+                <marker date="1648662813458" expanded="true" signature="13087:13121" ph="insert into complaint... " />
+                <marker date="1648662813458" expanded="true" signature="13087:13148" ph="insert into complaint... " />
+                <marker date="1648662813458" expanded="true" signature="13087:13157" ph="insert into complaint... " />
+                <marker date="1648662813458" expanded="true" signature="13087:13168" ph="insert into complaint... " />
+                <marker date="1648662813458" expanded="true" signature="13087:13187" ph="insert into complaint... " />
+                <marker date="1648662813458" expanded="true" signature="13559:13596" ph="select * fro... complaint" />
+                <marker date="1648662813458" expanded="true" signature="13559:13601" ph="select * fro... complaint" />
+                <marker date="1648662813458" expanded="true" signature="13559:13626" ph="select * fro... complaint" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="view_minister.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/Admin/view_minister.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="60" lean-forward="false" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="view_officer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/Admin/view_officer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="60" lean-forward="false" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="add_department.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/Admin/add_department.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="view_suggestions.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/Admin/view_suggestions.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="66" lean-forward="false" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="allocate_minister.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/Admin/allocate_minister.html">
+      <file leaf-file-name="minister_home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/minister/minister_home.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="minister_Registration_form.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/Admin/minister_Registration_form.html">
+      <file leaf-file-name="importent_document_to_minister.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/officer/importent_document_to_minister.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="59" lean-forward="true" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="officer_home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/officer/officer_home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="officer_profile.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/officer/officer_profile.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="59" lean-forward="false" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="minister_officer_view.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/minister/minister_officer_view.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="9" column="73" lean-forward="true" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="97" />
+              <caret line="9" column="65" lean-forward="false" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/Admin/index.html">
+        <entry file="file://$PROJECT_DIR$/templates/officer/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="276" column="57" lean-forward="false" selection-start-line="276" selection-start-column="57" selection-end-line="276" selection-end-column="57" />
+            <state relative-caret-position="126">
+              <caret line="258" column="53" lean-forward="false" selection-start-line="258" selection-start-column="53" selection-end-line="258" selection-end-column="53" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin_home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/Admin/admin_home.html">
+      <file leaf-file-name="officer_send_complaint.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/officer/officer_send_complaint.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="23" lean-forward="true" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+            <state relative-caret-position="189">
+              <caret line="9" column="55" lean-forward="false" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="officer_view_complaint_reply.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/officer/officer_view_complaint_reply.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="9" column="65" lean-forward="false" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -1040,20 +231,9 @@
       <list>
         <option value="$PROJECT_DIR$/db_connection.py" />
         <option value="$PROJECT_DIR$/templates/login.html" />
-        <option value="$PROJECT_DIR$/templates/minister/minister_profile.html" />
-        <option value="$PROJECT_DIR$/templates/minister/minister_home.html" />
-        <option value="$PROJECT_DIR$/templates/minister/minister_officer_view.html" />
-        <option value="$PROJECT_DIR$/templates/minister/inbox_from_officer.html" />
-        <option value="$PROJECT_DIR$/templates/officer/officer_home.html" />
-        <option value="$PROJECT_DIR$/templates/officer/officer_profile.html" />
-        <option value="$PROJECT_DIR$/templates/officer/officer_view_complaint_reply.html" />
-        <option value="$PROJECT_DIR$/templates/minister/minister_send_suggestions.html" />
-        <option value="$PROJECT_DIR$/templates/officer/officer_send_complaint.html" />
-        <option value="$PROJECT_DIR$/templates/officer/importent_document_to_minister.html" />
         <option value="$PROJECT_DIR$/templates/login1.html" />
         <option value="$PROJECT_DIR$/templates/Admin/send_reply.html" />
         <option value="$PROJECT_DIR$/templates/Admin/index-1.html" />
-        <option value="$PROJECT_DIR$/secure sharing of data.py" />
         <option value="$PROJECT_DIR$/templates/Admin/admin_home.html" />
         <option value="$PROJECT_DIR$/templates/Admin/allocate_minister.html" />
         <option value="$PROJECT_DIR$/templates/Admin/add_department.html" />
@@ -1065,6 +245,19 @@
         <option value="$PROJECT_DIR$/templates/Admin/view_officer.html" />
         <option value="$PROJECT_DIR$/templates/Admin/view_suggestions.html" />
         <option value="$PROJECT_DIR$/templates/Admin/view_complaint.html" />
+        <option value="$PROJECT_DIR$/templates/minister/minister_home.html" />
+        <option value="$PROJECT_DIR$/templates/minister/minister_profile.html" />
+        <option value="$PROJECT_DIR$/templates/minister/minister_officer_view.html" />
+        <option value="$PROJECT_DIR$/templates/minister/inbox_from_officer.html" />
+        <option value="$PROJECT_DIR$/templates/minister/minister_send_suggestions.html" />
+        <option value="$PROJECT_DIR$/secure sharing of data.py" />
+        <option value="$PROJECT_DIR$/templates/minister/index.html" />
+        <option value="$PROJECT_DIR$/templates/officer/index.html" />
+        <option value="$PROJECT_DIR$/templates/officer/officer_home.html" />
+        <option value="$PROJECT_DIR$/templates/officer/officer_view_complaint_reply.html" />
+        <option value="$PROJECT_DIR$/templates/officer/officer_send_complaint.html" />
+        <option value="$PROJECT_DIR$/templates/officer/officer_profile.html" />
+        <option value="$PROJECT_DIR$/templates/officer/importent_document_to_minister.html" />
       </list>
     </option>
   </component>
@@ -1095,6 +288,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1135,111 +329,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="officer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="secure sharing of data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="secure sharing of data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="minister" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="secure sharing of data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="secure sharing of data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Admin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="secure sharing of data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="secure sharing of data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="secure sharing of data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="secure sharing of data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="login" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="secure sharing of data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="secure sharing of data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="login" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="secure sharing of data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="secure sharing of data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="home" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="secure sharing of data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="secure sharing of data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="home" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="style.css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -1248,11 +379,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\BEST\PycharmProjects\secure sharing of data\templates\officer" />
+      <recent name="C:\Users\BEST\PycharmProjects\secure sharing of data\templates\minister" />
       <recent name="C:\Users\BEST\PycharmProjects\secure sharing of data\static\home" />
       <recent name="C:\Users\BEST\PycharmProjects\secure sharing of data\templates\Admin" />
       <recent name="C:\Users\BEST\PycharmProjects\secure sharing of data\static\login" />
-      <recent name="C:\Users\BEST\PycharmProjects\secure sharing of data\templates" />
-      <recent name="C:\Users\BEST\PycharmProjects\secure sharing of data\templates\officer" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1462,7 +593,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30845225" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30845225" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1488,105 +619,84 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/Admin/add_department.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="40" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Admin/officer_registration_form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/secure sharing of data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1648228846668" expanded="true" signature="381:419" ph="select * fro... login" />
-            <marker date="1648228846668" expanded="true" signature="381:449" ph="select * fro... login" />
-            <marker date="1648228846668" expanded="true" signature="381:462" ph="select * fro... login" />
-            <marker date="1648228846668" expanded="true" signature="381:464" ph="select * fro... login" />
-            <marker date="1648228846668" expanded="true" signature="1326:1360" ph="insert into department... " />
-            <marker date="1648228846668" expanded="true" signature="1326:1361" ph="insert into department... " />
-            <marker date="1648228846668" expanded="true" signature="1326:1371" ph="insert into department... " />
-            <marker date="1648228846668" expanded="true" signature="1326:1373" ph="insert into department... " />
-            <marker date="1648228846668" expanded="true" signature="2593:2660" ph="insert into login... " />
-            <marker date="1648228846668" expanded="true" signature="2686:2839" ph="insert into minister... " />
-            <marker date="1648228846668" expanded="true" signature="3178:3200" ph="select * fro... minister" />
-            <marker date="1648228846668" expanded="true" signature="4328:4393" ph="insert into login... " />
-            <marker date="1648228846668" expanded="true" signature="4419:4571" ph="insert into officer... " />
-            <marker date="1648228846668" expanded="true" signature="4909:4930" ph="select * fro... officer" />
-            <marker date="1648228846668" expanded="true" signature="5529:5582" ph="select * fro... alloacate_minister" />
-            <marker date="1648228846668" expanded="true" signature="5529:5591" ph="select * fro... alloacate_minister" />
-            <marker date="1648228846668" expanded="true" signature="5529:5607" ph="select * fro... alloacate_minister" />
-            <marker date="1648228846668" expanded="true" signature="5529:5622" ph="select * fro... alloacate_minister" />
-            <marker date="1648228846668" expanded="true" signature="5679:5721" ph="insert into allocate_minister... " />
-            <marker date="1648228846668" expanded="true" signature="5679:5738" ph="insert into allocate_minister... " />
-            <marker date="1648228846668" expanded="true" signature="5679:5749" ph="insert into allocate_minister... " />
-            <marker date="1648228846668" expanded="true" signature="5679:5759" ph="insert into allocate_minister... " />
-            <marker date="1648228846668" expanded="true" signature="6059:6083" ph="select * fro... department" />
-            <marker date="1648228846668" expanded="true" signature="6295:6337" ph="delete from " />
-            <marker date="1648228846668" expanded="true" signature="6295:6346" ph="delete from " />
-            <marker date="1648228846668" expanded="true" signature="6364:6400" ph="delete from " />
-            <marker date="1648228846668" expanded="true" signature="6364:6409" ph="delete from " />
-            <marker date="1648228846668" expanded="true" signature="6596:6615" ph="delete from " />
-            <marker date="1648228846668" expanded="true" signature="6596:6630" ph="delete from " />
-            <marker date="1648228846668" expanded="true" signature="6596:6636" ph="delete from " />
-            <marker date="1648228846668" expanded="true" signature="6596:6645" ph="delete from " />
-            <marker date="1648228846668" expanded="true" signature="6663:6712" ph="delete from " />
-            <marker date="1648228846668" expanded="true" signature="7054:7094" ph="insert into allocate_officer... " />
-            <marker date="1648228846668" expanded="true" signature="7054:7095" ph="insert into allocate_officer... " />
-            <marker date="1648228846668" expanded="true" signature="7054:7106" ph="insert into allocate_officer... " />
-            <marker date="1648228846668" expanded="true" signature="7054:7122" ph="insert into allocate_officer... " />
-            <marker date="1648228846668" expanded="true" signature="7300:7324" ph="select * fro... department" />
-            <marker date="1648228846668" expanded="true" signature="7573:7660" ph="SELECT * FRO... minister" />
-            <marker date="1648228846668" expanded="true" signature="7900:8018" ph="SELECT * FRO... officer" />
-            <marker date="1648228846668" expanded="true" signature="8047:8171" ph="SELECT * FRO... minister" />
-            <marker date="1648228846668" expanded="true" signature="8532:8631" ph="update compl... " />
-            <marker date="1648228846668" expanded="true" signature="9177:9390" ph="select * fro... minister" />
-            <marker date="1648228846668" expanded="true" signature="9644:9696" ph="select * fro... allocate_officer" />
-            <marker date="1648228846668" expanded="true" signature="9644:9856" ph="select * fro... allocate_officer" />
-            <marker date="1648228846668" expanded="true" signature="9644:9881" ph="select * fro... allocate_officer" />
-            <marker date="1648228846668" expanded="true" signature="10134:10370" ph="select * fro... allocate_officer" />
-            <marker date="1648228846668" expanded="true" signature="10134:10372" ph="select * fro... allocate_officer" />
-            <marker date="1648228846668" expanded="true" signature="10134:10374" ph="select * fro... allocate_officer" />
-            <marker date="1648228846668" expanded="true" signature="10134:10399" ph="select * fro... allocate_officer" />
-            <marker date="1648228846668" expanded="true" signature="10134:10451" ph="select * fro... allocate_officer" />
-            <marker date="1648228846668" expanded="true" signature="10134:10453" ph="select * fro... allocate_officer" />
-            <marker date="1648228846668" expanded="true" signature="10816:10828" ph="insert into s... " />
-            <marker date="1648228846668" expanded="true" signature="10816:10851" ph="insert into suggestion... " />
-            <marker date="1648228846668" expanded="true" signature="10816:10888" ph="insert into suggestion... " />
-            <marker date="1648228846668" expanded="true" signature="10816:10897" ph="insert into suggestion... " />
-            <marker date="1648228846668" expanded="true" signature="11472:11686" ph="select * fro... minister" />
-            <marker date="1648228846668" expanded="true" signature="12369:12420" ph="select * fro... allocate_officer" />
-            <marker date="1648228846668" expanded="true" signature="12369:12445" ph="select * fro... allocate_officer" />
-            <marker date="1648228846668" expanded="true" signature="12369:12447" ph="select * fro... allocate_officer" />
-            <marker date="1648228846668" expanded="true" signature="12542:12575" ph="insert into values... " />
-            <marker date="1648228846668" expanded="true" signature="12542:12590" ph="insert into values... " />
-            <marker date="1648228846668" expanded="true" signature="12542:12603" ph="insert into values... " />
-            <marker date="1648228846668" expanded="true" signature="12542:12613" ph="insert into values... " />
-            <marker date="1648228846668" expanded="true" signature="12542:12623" ph="insert into values... " />
-            <marker date="1648228846668" expanded="true" signature="12542:12625" ph="insert into values... " />
-            <marker date="1648228846668" expanded="true" signature="13102:13136" ph="insert into complaint... " />
-            <marker date="1648228846668" expanded="true" signature="13102:13163" ph="insert into complaint... " />
-            <marker date="1648228846668" expanded="true" signature="13102:13172" ph="insert into complaint... " />
-            <marker date="1648228846668" expanded="true" signature="13102:13183" ph="insert into complaint... " />
-            <marker date="1648228846668" expanded="true" signature="13102:13202" ph="insert into complaint... " />
-            <marker date="1648228846668" expanded="true" signature="13574:13611" ph="select * fro... complaint" />
-            <marker date="1648228846668" expanded="true" signature="13574:13616" ph="select * fro... complaint" />
-            <marker date="1648228846668" expanded="true" signature="13574:13641" ph="select * fro... complaint" />
+            <marker date="1648662813458" expanded="true" signature="381:419" ph="select * fro... login" />
+            <marker date="1648662813458" expanded="true" signature="381:449" ph="select * fro... login" />
+            <marker date="1648662813458" expanded="true" signature="381:462" ph="select * fro... login" />
+            <marker date="1648662813458" expanded="true" signature="381:464" ph="select * fro... login" />
+            <marker date="1648662813458" expanded="true" signature="1326:1360" ph="insert into department... " />
+            <marker date="1648662813458" expanded="true" signature="1326:1361" ph="insert into department... " />
+            <marker date="1648662813458" expanded="true" signature="1326:1371" ph="insert into department... " />
+            <marker date="1648662813458" expanded="true" signature="1326:1373" ph="insert into department... " />
+            <marker date="1648662813458" expanded="true" signature="2593:2660" ph="insert into login... " />
+            <marker date="1648662813458" expanded="true" signature="2686:2839" ph="insert into minister... " />
+            <marker date="1648662813458" expanded="true" signature="3178:3200" ph="select * fro... minister" />
+            <marker date="1648662813458" expanded="true" signature="4328:4393" ph="insert into login... " />
+            <marker date="1648662813458" expanded="true" signature="4419:4571" ph="insert into officer... " />
+            <marker date="1648662813458" expanded="true" signature="4909:4930" ph="select * fro... officer" />
+            <marker date="1648662813458" expanded="true" signature="5529:5582" ph="select * fro... alloacate_minister" />
+            <marker date="1648662813458" expanded="true" signature="5529:5591" ph="select * fro... alloacate_minister" />
+            <marker date="1648662813458" expanded="true" signature="5529:5607" ph="select * fro... alloacate_minister" />
+            <marker date="1648662813458" expanded="true" signature="5529:5622" ph="select * fro... alloacate_minister" />
+            <marker date="1648662813458" expanded="true" signature="5679:5721" ph="insert into allocate_minister... " />
+            <marker date="1648662813458" expanded="true" signature="5679:5738" ph="insert into allocate_minister... " />
+            <marker date="1648662813458" expanded="true" signature="5679:5749" ph="insert into allocate_minister... " />
+            <marker date="1648662813458" expanded="true" signature="5679:5759" ph="insert into allocate_minister... " />
+            <marker date="1648662813458" expanded="true" signature="6059:6083" ph="select * fro... department" />
+            <marker date="1648662813458" expanded="true" signature="6295:6337" ph="delete from " />
+            <marker date="1648662813458" expanded="true" signature="6295:6346" ph="delete from " />
+            <marker date="1648662813458" expanded="true" signature="6364:6400" ph="delete from " />
+            <marker date="1648662813458" expanded="true" signature="6364:6409" ph="delete from " />
+            <marker date="1648662813458" expanded="true" signature="6596:6615" ph="delete from " />
+            <marker date="1648662813458" expanded="true" signature="6596:6630" ph="delete from " />
+            <marker date="1648662813458" expanded="true" signature="6596:6636" ph="delete from " />
+            <marker date="1648662813458" expanded="true" signature="6596:6645" ph="delete from " />
+            <marker date="1648662813458" expanded="true" signature="6663:6712" ph="delete from " />
+            <marker date="1648662813458" expanded="true" signature="7054:7094" ph="insert into allocate_officer... " />
+            <marker date="1648662813458" expanded="true" signature="7054:7095" ph="insert into allocate_officer... " />
+            <marker date="1648662813458" expanded="true" signature="7054:7106" ph="insert into allocate_officer... " />
+            <marker date="1648662813458" expanded="true" signature="7054:7122" ph="insert into allocate_officer... " />
+            <marker date="1648662813458" expanded="true" signature="7300:7324" ph="select * fro... department" />
+            <marker date="1648662813458" expanded="true" signature="7573:7660" ph="SELECT * FRO... minister" />
+            <marker date="1648662813458" expanded="true" signature="7900:8018" ph="SELECT * FRO... officer" />
+            <marker date="1648662813458" expanded="true" signature="8047:8171" ph="SELECT * FRO... minister" />
+            <marker date="1648662813458" expanded="true" signature="8532:8631" ph="update compl... " />
+            <marker date="1648662813458" expanded="true" signature="9169:9382" ph="select * fro... minister" />
+            <marker date="1648662813458" expanded="true" signature="9636:9688" ph="select * fro... allocate_officer" />
+            <marker date="1648662813458" expanded="true" signature="9636:9848" ph="select * fro... allocate_officer" />
+            <marker date="1648662813458" expanded="true" signature="9636:9873" ph="select * fro... allocate_officer" />
+            <marker date="1648662813458" expanded="true" signature="10126:10362" ph="select * fro... allocate_officer" />
+            <marker date="1648662813458" expanded="true" signature="10126:10364" ph="select * fro... allocate_officer" />
+            <marker date="1648662813458" expanded="true" signature="10126:10366" ph="select * fro... allocate_officer" />
+            <marker date="1648662813458" expanded="true" signature="10126:10391" ph="select * fro... allocate_officer" />
+            <marker date="1648662813458" expanded="true" signature="10126:10443" ph="select * fro... allocate_officer" />
+            <marker date="1648662813458" expanded="true" signature="10126:10445" ph="select * fro... allocate_officer" />
+            <marker date="1648662813458" expanded="true" signature="10808:10820" ph="insert into s... " />
+            <marker date="1648662813458" expanded="true" signature="10808:10843" ph="insert into suggestion... " />
+            <marker date="1648662813458" expanded="true" signature="10808:10880" ph="insert into suggestion... " />
+            <marker date="1648662813458" expanded="true" signature="10808:10889" ph="insert into suggestion... " />
+            <marker date="1648662813458" expanded="true" signature="11457:11671" ph="select * fro... minister" />
+            <marker date="1648662813458" expanded="true" signature="12354:12405" ph="select * fro... allocate_officer" />
+            <marker date="1648662813458" expanded="true" signature="12354:12430" ph="select * fro... allocate_officer" />
+            <marker date="1648662813458" expanded="true" signature="12354:12432" ph="select * fro... allocate_officer" />
+            <marker date="1648662813458" expanded="true" signature="12527:12560" ph="insert into values... " />
+            <marker date="1648662813458" expanded="true" signature="12527:12575" ph="insert into values... " />
+            <marker date="1648662813458" expanded="true" signature="12527:12588" ph="insert into values... " />
+            <marker date="1648662813458" expanded="true" signature="12527:12598" ph="insert into values... " />
+            <marker date="1648662813458" expanded="true" signature="12527:12608" ph="insert into values... " />
+            <marker date="1648662813458" expanded="true" signature="12527:12610" ph="insert into values... " />
+            <marker date="1648662813458" expanded="true" signature="13087:13121" ph="insert into complaint... " />
+            <marker date="1648662813458" expanded="true" signature="13087:13148" ph="insert into complaint... " />
+            <marker date="1648662813458" expanded="true" signature="13087:13157" ph="insert into complaint... " />
+            <marker date="1648662813458" expanded="true" signature="13087:13168" ph="insert into complaint... " />
+            <marker date="1648662813458" expanded="true" signature="13087:13187" ph="insert into complaint... " />
+            <marker date="1648662813458" expanded="true" signature="13559:13596" ph="select * fro... complaint" />
+            <marker date="1648662813458" expanded="true" signature="13559:13601" ph="select * fro... complaint" />
+            <marker date="1648662813458" expanded="true" signature="13559:13626" ph="select * fro... complaint" />
           </folding>
         </state>
       </provider>
@@ -1662,34 +772,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/minister/minister_profile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="67" lean-forward="false" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/minister/minister_home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/minister/minister_officer_view.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/minister/inbox_from_officer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/officer/220310-100310.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1703,48 +785,6 @@
     <entry file="file://$PROJECT_DIR$/static/photo/220310-100310.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/officer/officer_home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/officer/officer_profile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="25" column="15" lean-forward="false" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/officer/officer_view_complaint_reply.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="2" lean-forward="false" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/minister/minister_send_suggestions.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="73" lean-forward="false" selection-start-line="11" selection-start-column="73" selection-end-line="11" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/officer/officer_send_complaint.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="73" lean-forward="false" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/officer/importent_document_to_minister.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="41" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db_connection.py">
@@ -1779,112 +819,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Admin/index-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11760">
-          <caret line="560" column="24" lean-forward="false" selection-start-line="560" selection-start-column="24" selection-end-line="560" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/home/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/secure sharing of data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="123" column="43" lean-forward="false" selection-start-line="123" selection-start-column="43" selection-end-line="123" selection-end-column="43" />
-          <folding>
-            <marker date="1648228846668" expanded="true" signature="381:419" ph="select * fro... login" />
-            <marker date="1648228846668" expanded="true" signature="381:449" ph="select * fro... login" />
-            <marker date="1648228846668" expanded="true" signature="381:462" ph="select * fro... login" />
-            <marker date="1648228846668" expanded="true" signature="381:464" ph="select * fro... login" />
-            <marker date="1648228846668" expanded="true" signature="1326:1360" ph="insert into department... " />
-            <marker date="1648228846668" expanded="true" signature="1326:1361" ph="insert into department... " />
-            <marker date="1648228846668" expanded="true" signature="1326:1371" ph="insert into department... " />
-            <marker date="1648228846668" expanded="true" signature="1326:1373" ph="insert into department... " />
-            <marker date="1648228846668" expanded="true" signature="2593:2660" ph="insert into login... " />
-            <marker date="1648228846668" expanded="true" signature="2686:2839" ph="insert into minister... " />
-            <marker date="1648228846668" expanded="true" signature="3178:3200" ph="select * fro... minister" />
-            <marker date="1648228846668" expanded="true" signature="4328:4393" ph="insert into login... " />
-            <marker date="1648228846668" expanded="true" signature="4419:4571" ph="insert into officer... " />
-            <marker date="1648228846668" expanded="true" signature="4909:4930" ph="select * fro... officer" />
-            <marker date="1648228846668" expanded="true" signature="5529:5582" ph="select * fro... alloacate_minister" />
-            <marker date="1648228846668" expanded="true" signature="5529:5591" ph="select * fro... alloacate_minister" />
-            <marker date="1648228846668" expanded="true" signature="5529:5607" ph="select * fro... alloacate_minister" />
-            <marker date="1648228846668" expanded="true" signature="5529:5622" ph="select * fro... alloacate_minister" />
-            <marker date="1648228846668" expanded="true" signature="5679:5721" ph="insert into allocate_minister... " />
-            <marker date="1648228846668" expanded="true" signature="5679:5738" ph="insert into allocate_minister... " />
-            <marker date="1648228846668" expanded="true" signature="5679:5749" ph="insert into allocate_minister... " />
-            <marker date="1648228846668" expanded="true" signature="5679:5759" ph="insert into allocate_minister... " />
-            <marker date="1648228846668" expanded="true" signature="6059:6083" ph="select * fro... department" />
-            <marker date="1648228846668" expanded="true" signature="6295:6337" ph="delete from " />
-            <marker date="1648228846668" expanded="true" signature="6295:6346" ph="delete from " />
-            <marker date="1648228846668" expanded="true" signature="6364:6400" ph="delete from " />
-            <marker date="1648228846668" expanded="true" signature="6364:6409" ph="delete from " />
-            <marker date="1648228846668" expanded="true" signature="6596:6615" ph="delete from " />
-            <marker date="1648228846668" expanded="true" signature="6596:6630" ph="delete from " />
-            <marker date="1648228846668" expanded="true" signature="6596:6636" ph="delete from " />
-            <marker date="1648228846668" expanded="true" signature="6596:6645" ph="delete from " />
-            <marker date="1648228846668" expanded="true" signature="6663:6712" ph="delete from " />
-            <marker date="1648228846668" expanded="true" signature="7054:7094" ph="insert into allocate_officer... " />
-            <marker date="1648228846668" expanded="true" signature="7054:7095" ph="insert into allocate_officer... " />
-            <marker date="1648228846668" expanded="true" signature="7054:7106" ph="insert into allocate_officer... " />
-            <marker date="1648228846668" expanded="true" signature="7054:7122" ph="insert into allocate_officer... " />
-            <marker date="1648228846668" expanded="true" signature="7300:7324" ph="select * fro... department" />
-            <marker date="1648228846668" expanded="true" signature="7573:7660" ph="SELECT * FRO... minister" />
-            <marker date="1648228846668" expanded="true" signature="7900:8018" ph="SELECT * FRO... officer" />
-            <marker date="1648228846668" expanded="true" signature="8047:8171" ph="SELECT * FRO... minister" />
-            <marker date="1648228846668" expanded="true" signature="8532:8631" ph="update compl... " />
-            <marker date="1648228846668" expanded="true" signature="9177:9390" ph="select * fro... minister" />
-            <marker date="1648228846668" expanded="true" signature="9644:9696" ph="select * fro... allocate_officer" />
-            <marker date="1648228846668" expanded="true" signature="9644:9856" ph="select * fro... allocate_officer" />
-            <marker date="1648228846668" expanded="true" signature="9644:9881" ph="select * fro... allocate_officer" />
-            <marker date="1648228846668" expanded="true" signature="10134:10370" ph="select * fro... allocate_officer" />
-            <marker date="1648228846668" expanded="true" signature="10134:10372" ph="select * fro... allocate_officer" />
-            <marker date="1648228846668" expanded="true" signature="10134:10374" ph="select * fro... allocate_officer" />
-            <marker date="1648228846668" expanded="true" signature="10134:10399" ph="select * fro... allocate_officer" />
-            <marker date="1648228846668" expanded="true" signature="10134:10451" ph="select * fro... allocate_officer" />
-            <marker date="1648228846668" expanded="true" signature="10134:10453" ph="select * fro... allocate_officer" />
-            <marker date="1648228846668" expanded="true" signature="10816:10828" ph="insert into s... " />
-            <marker date="1648228846668" expanded="true" signature="10816:10851" ph="insert into suggestion... " />
-            <marker date="1648228846668" expanded="true" signature="10816:10888" ph="insert into suggestion... " />
-            <marker date="1648228846668" expanded="true" signature="10816:10897" ph="insert into suggestion... " />
-            <marker date="1648228846668" expanded="true" signature="11472:11686" ph="select * fro... minister" />
-            <marker date="1648228846668" expanded="true" signature="12369:12420" ph="select * fro... allocate_officer" />
-            <marker date="1648228846668" expanded="true" signature="12369:12445" ph="select * fro... allocate_officer" />
-            <marker date="1648228846668" expanded="true" signature="12369:12447" ph="select * fro... allocate_officer" />
-            <marker date="1648228846668" expanded="true" signature="12542:12575" ph="insert into values... " />
-            <marker date="1648228846668" expanded="true" signature="12542:12590" ph="insert into values... " />
-            <marker date="1648228846668" expanded="true" signature="12542:12603" ph="insert into values... " />
-            <marker date="1648228846668" expanded="true" signature="12542:12613" ph="insert into values... " />
-            <marker date="1648228846668" expanded="true" signature="12542:12623" ph="insert into values... " />
-            <marker date="1648228846668" expanded="true" signature="12542:12625" ph="insert into values... " />
-            <marker date="1648228846668" expanded="true" signature="13102:13136" ph="insert into complaint... " />
-            <marker date="1648228846668" expanded="true" signature="13102:13163" ph="insert into complaint... " />
-            <marker date="1648228846668" expanded="true" signature="13102:13172" ph="insert into complaint... " />
-            <marker date="1648228846668" expanded="true" signature="13102:13183" ph="insert into complaint... " />
-            <marker date="1648228846668" expanded="true" signature="13102:13202" ph="insert into complaint... " />
-            <marker date="1648228846668" expanded="true" signature="13574:13611" ph="select * fro... complaint" />
-            <marker date="1648228846668" expanded="true" signature="13574:13616" ph="select * fro... complaint" />
-            <marker date="1648228846668" expanded="true" signature="13574:13641" ph="select * fro... complaint" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/home/modules/zingchart-r.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/index-1.html" />
+    <entry file="file://$PROJECT_DIR$/static/home/css/custom.css" />
+    <entry file="file://$PROJECT_DIR$/static/home/modules/zingchart-r.min.js" />
     <entry file="file://$PROJECT_DIR$/static/home/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-882">
@@ -1905,7 +842,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="22" column="11" lean-forward="false" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1913,15 +849,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="61" lean-forward="false" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Admin/add_department.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1929,7 +856,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1937,7 +863,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="73" lean-forward="true" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="97" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1945,7 +870,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="97" lean-forward="false" selection-start-line="9" selection-start-column="97" selection-end-line="9" selection-end-column="97" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1953,15 +877,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="23" lean-forward="true" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Admin/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="276" column="57" lean-forward="false" selection-start-line="276" selection-start-column="57" selection-end-line="276" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1969,7 +884,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="60" lean-forward="false" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1977,7 +891,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="60" lean-forward="false" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1985,18 +898,215 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="66" lean-forward="false" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/Admin/view_complaint.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
+        <state relative-caret-position="238">
           <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/add_department.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5796">
+          <caret line="276" column="57" lean-forward="false" selection-start-line="276" selection-start-column="57" selection-end-line="276" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42105">
+          <caret line="2072" column="0" lean-forward="false" selection-start-line="2072" selection-start-column="0" selection-end-line="2072" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/minister/minister_profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/minister/inbox_from_officer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="64" lean-forward="true" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/minister/minister_send_suggestions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="66" lean-forward="false" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/minister/minister_officer_view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="65" lean-forward="false" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/minister/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="272" column="58" lean-forward="false" selection-start-line="272" selection-start-column="58" selection-end-line="272" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/secure sharing of data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-400">
+          <caret line="262" column="45" lean-forward="false" selection-start-line="262" selection-start-column="45" selection-end-line="262" selection-end-column="45" />
           <folding>
-            <element signature="e#376#397#0#HTML" expanded="true" />
-            <element signature="e#967#988#0#HTML" expanded="true" />
+            <marker date="1648662813458" expanded="true" signature="381:419" ph="select * fro... login" />
+            <marker date="1648662813458" expanded="true" signature="381:449" ph="select * fro... login" />
+            <marker date="1648662813458" expanded="true" signature="381:462" ph="select * fro... login" />
+            <marker date="1648662813458" expanded="true" signature="381:464" ph="select * fro... login" />
+            <marker date="1648662813458" expanded="true" signature="1326:1360" ph="insert into department... " />
+            <marker date="1648662813458" expanded="true" signature="1326:1361" ph="insert into department... " />
+            <marker date="1648662813458" expanded="true" signature="1326:1371" ph="insert into department... " />
+            <marker date="1648662813458" expanded="true" signature="1326:1373" ph="insert into department... " />
+            <marker date="1648662813458" expanded="true" signature="2593:2660" ph="insert into login... " />
+            <marker date="1648662813458" expanded="true" signature="2686:2839" ph="insert into minister... " />
+            <marker date="1648662813458" expanded="true" signature="3178:3200" ph="select * fro... minister" />
+            <marker date="1648662813458" expanded="true" signature="4328:4393" ph="insert into login... " />
+            <marker date="1648662813458" expanded="true" signature="4419:4571" ph="insert into officer... " />
+            <marker date="1648662813458" expanded="true" signature="4909:4930" ph="select * fro... officer" />
+            <marker date="1648662813458" expanded="true" signature="5529:5582" ph="select * fro... alloacate_minister" />
+            <marker date="1648662813458" expanded="true" signature="5529:5591" ph="select * fro... alloacate_minister" />
+            <marker date="1648662813458" expanded="true" signature="5529:5607" ph="select * fro... alloacate_minister" />
+            <marker date="1648662813458" expanded="true" signature="5529:5622" ph="select * fro... alloacate_minister" />
+            <marker date="1648662813458" expanded="true" signature="5679:5721" ph="insert into allocate_minister... " />
+            <marker date="1648662813458" expanded="true" signature="5679:5738" ph="insert into allocate_minister... " />
+            <marker date="1648662813458" expanded="true" signature="5679:5749" ph="insert into allocate_minister... " />
+            <marker date="1648662813458" expanded="true" signature="5679:5759" ph="insert into allocate_minister... " />
+            <marker date="1648662813458" expanded="true" signature="6059:6083" ph="select * fro... department" />
+            <marker date="1648662813458" expanded="true" signature="6295:6337" ph="delete from " />
+            <marker date="1648662813458" expanded="true" signature="6295:6346" ph="delete from " />
+            <marker date="1648662813458" expanded="true" signature="6364:6400" ph="delete from " />
+            <marker date="1648662813458" expanded="true" signature="6364:6409" ph="delete from " />
+            <marker date="1648662813458" expanded="true" signature="6596:6615" ph="delete from " />
+            <marker date="1648662813458" expanded="true" signature="6596:6630" ph="delete from " />
+            <marker date="1648662813458" expanded="true" signature="6596:6636" ph="delete from " />
+            <marker date="1648662813458" expanded="true" signature="6596:6645" ph="delete from " />
+            <marker date="1648662813458" expanded="true" signature="6663:6712" ph="delete from " />
+            <marker date="1648662813458" expanded="true" signature="7054:7094" ph="insert into allocate_officer... " />
+            <marker date="1648662813458" expanded="true" signature="7054:7095" ph="insert into allocate_officer... " />
+            <marker date="1648662813458" expanded="true" signature="7054:7106" ph="insert into allocate_officer... " />
+            <marker date="1648662813458" expanded="true" signature="7054:7122" ph="insert into allocate_officer... " />
+            <marker date="1648662813458" expanded="true" signature="7300:7324" ph="select * fro... department" />
+            <marker date="1648662813458" expanded="true" signature="7573:7660" ph="SELECT * FRO... minister" />
+            <marker date="1648662813458" expanded="true" signature="7900:8018" ph="SELECT * FRO... officer" />
+            <marker date="1648662813458" expanded="true" signature="8047:8171" ph="SELECT * FRO... minister" />
+            <marker date="1648662813458" expanded="true" signature="8532:8631" ph="update compl... " />
+            <marker date="1648662813458" expanded="true" signature="9169:9382" ph="select * fro... minister" />
+            <marker date="1648662813458" expanded="true" signature="9636:9688" ph="select * fro... allocate_officer" />
+            <marker date="1648662813458" expanded="true" signature="9636:9848" ph="select * fro... allocate_officer" />
+            <marker date="1648662813458" expanded="true" signature="9636:9873" ph="select * fro... allocate_officer" />
+            <marker date="1648662813458" expanded="true" signature="10126:10362" ph="select * fro... allocate_officer" />
+            <marker date="1648662813458" expanded="true" signature="10126:10364" ph="select * fro... allocate_officer" />
+            <marker date="1648662813458" expanded="true" signature="10126:10366" ph="select * fro... allocate_officer" />
+            <marker date="1648662813458" expanded="true" signature="10126:10391" ph="select * fro... allocate_officer" />
+            <marker date="1648662813458" expanded="true" signature="10126:10443" ph="select * fro... allocate_officer" />
+            <marker date="1648662813458" expanded="true" signature="10126:10445" ph="select * fro... allocate_officer" />
+            <marker date="1648662813458" expanded="true" signature="10808:10820" ph="insert into s... " />
+            <marker date="1648662813458" expanded="true" signature="10808:10843" ph="insert into suggestion... " />
+            <marker date="1648662813458" expanded="true" signature="10808:10880" ph="insert into suggestion... " />
+            <marker date="1648662813458" expanded="true" signature="10808:10889" ph="insert into suggestion... " />
+            <marker date="1648662813458" expanded="true" signature="11457:11671" ph="select * fro... minister" />
+            <marker date="1648662813458" expanded="true" signature="12354:12405" ph="select * fro... allocate_officer" />
+            <marker date="1648662813458" expanded="true" signature="12354:12430" ph="select * fro... allocate_officer" />
+            <marker date="1648662813458" expanded="true" signature="12354:12432" ph="select * fro... allocate_officer" />
+            <marker date="1648662813458" expanded="true" signature="12527:12560" ph="insert into values... " />
+            <marker date="1648662813458" expanded="true" signature="12527:12575" ph="insert into values... " />
+            <marker date="1648662813458" expanded="true" signature="12527:12588" ph="insert into values... " />
+            <marker date="1648662813458" expanded="true" signature="12527:12598" ph="insert into values... " />
+            <marker date="1648662813458" expanded="true" signature="12527:12608" ph="insert into values... " />
+            <marker date="1648662813458" expanded="true" signature="12527:12610" ph="insert into values... " />
+            <marker date="1648662813458" expanded="true" signature="13087:13121" ph="insert into complaint... " />
+            <marker date="1648662813458" expanded="true" signature="13087:13148" ph="insert into complaint... " />
+            <marker date="1648662813458" expanded="true" signature="13087:13157" ph="insert into complaint... " />
+            <marker date="1648662813458" expanded="true" signature="13087:13168" ph="insert into complaint... " />
+            <marker date="1648662813458" expanded="true" signature="13087:13187" ph="insert into complaint... " />
+            <marker date="1648662813458" expanded="true" signature="13559:13596" ph="select * fro... complaint" />
+            <marker date="1648662813458" expanded="true" signature="13559:13601" ph="select * fro... complaint" />
+            <marker date="1648662813458" expanded="true" signature="13559:13626" ph="select * fro... complaint" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/officer/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="258" column="53" lean-forward="false" selection-start-line="258" selection-start-column="53" selection-end-line="258" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/minister/minister_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/officer/officer_view_complaint_reply.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="9" column="65" lean-forward="false" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/officer/officer_send_complaint.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="55" lean-forward="false" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/officer/officer_profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="59" lean-forward="false" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/officer/officer_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/officer/importent_document_to_minister.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="59" lean-forward="true" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+          <folding />
         </state>
       </provider>
     </entry>
