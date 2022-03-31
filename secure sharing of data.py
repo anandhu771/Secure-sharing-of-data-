@@ -1,6 +1,7 @@
 from flask import Flask,render_template,request,redirect,session
 from db_connection import Db
 import random,datetime
+import demjson
 app = Flask(__name__)
 app.secret_key = "123"
 
@@ -255,6 +256,79 @@ def minister_send_suggestion():
         return render_template('minister/minister_send_suggestions.html')
     else:
         return redirect('/')
+
+@app.route('/minister_chat')
+def minister_chat():
+    if session['lg'] == "lin":
+
+        return render_template('minister/minister_chat.html')
+    else:
+        return redirect('/')
+
+@app.route('/company_staff_chat1', methods=['post'])
+def company_staff_chat():
+
+        db = Db()
+        a = session['m_id']
+        print(a)
+        q1 = "SELECT *  FROM officer"
+        res = db.select(q1)
+        v = {}
+        if len(res) > 0:
+            v["status"] = "ok"
+            v['data'] = res
+        else:
+            v["status"] = "error"
+
+        rw = demjson.encode(v)
+        print(rw)
+        return rw
+
+@app.route('/chatsnd1', methods=['post'])
+def chatsnd():
+
+        db = Db()
+        c = session['m_id']
+        b = request.form['n']
+        print(b)
+        m = request.form['m']
+
+        q2 = "insert into chat values(null,'" + str(c) + "','" + str(b) + "','" + m + "',now())"
+        res = db.insert(q2)
+        v = {}
+        if int(res) > 0:
+            v["status"] = "ok"
+
+        else:
+            v["status"] = "error"
+
+        r = demjson.encode(v)
+
+        return r
+
+@app.route('/chatrply1', methods=['post'])
+def chatrply():
+
+        print("...........................")
+        c = session['m_id']
+        b = request.form['n']
+        print("<<<<<<<<<<<<<<<<<<<<<<<<")
+        print(b)
+        t = Db()
+        qry2 = "select * from chat ORDER BY chat_id ASC ";
+        res = t.select(qry2)
+        print(res)
+
+        v = {}
+        if len(res) > 0:
+            v["status"] = "ok"
+            v['data'] = res
+            v['id'] = c
+        else:
+            v["status"] = "error"
+
+        rw = demjson.encode(v)
+        return rw
 #---------------Officer----------------
 
 @app.route('/officer')
@@ -314,6 +388,81 @@ def officer_view_complaint_reply():
         return render_template('officer/officer_view_complaint_reply.html',data=res)
     else:
         return redirect('/')
+
+@app.route('/officer_chat')
+def officer_chat():
+    if session['lg'] == "lin":
+        return render_template('officer/officer_chat.html')
+    else:
+        return redirect('/')
+
+
+
+@app.route('/company_staff_chat',methods=['post'])
+def company_staff_chat1():
+
+        db=Db()
+        a=session['o_id']
+        print(a)
+        q1="SELECT *  FROM minister"
+        res = db.select(q1)
+        v={}
+        if len(res)>0:
+            v["status"]="ok"
+            v['data']=res
+        else:
+            v["status"]="error"
+
+        rw=demjson.encode(v)
+        print(rw)
+        return rw
+
+@app.route('/chatsnd',methods=['post'])
+def chatsnd1():
+
+        db=Db()
+        c = session['o_id']
+        b=request.form['n']
+        print(b)
+        m=request.form['m']
+
+        q2="insert into chat values(null,'"+str(c)+"','"+str(b)+"','"+m+"',now())"
+        res=db.insert(q2)
+        v = {}
+        if int(res) > 0:
+            v["status"] = "ok"
+
+        else:
+            v["status"] = "error"
+
+        r = demjson.encode(v)
+
+        return r
+
+
+@app.route('/chatrply',methods=['post'])
+def chatrply1():
+
+        print("...........................")
+        c = session['o_id']
+        b=request.form['n']
+        print("<<<<<<<<<<<<<<<<<<<<<<<<")
+        print(b)
+        t = Db()
+        qry2 = "select * from chat ORDER BY chat_id ASC ";
+        res = t.select(qry2)
+        print(res)
+
+        v = {}
+        if len(res) > 0:
+            v["status"] = "ok"
+            v['data'] = res
+            v['id']=c
+        else:
+            v["status"] = "error"
+
+        rw = demjson.encode(v)
+        return rw
 
 
 if __name__ == '__main__':

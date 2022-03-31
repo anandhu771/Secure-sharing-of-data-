@@ -26,12 +26,9 @@ CREATE TABLE `allocate_minister` (
   `minister_id` int(11) DEFAULT NULL,
   `year` date DEFAULT NULL,
   PRIMARY KEY (`allocate_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 /*Data for the table `allocate_minister` */
-
-insert  into `allocate_minister`(`allocate_id`,`dept_id`,`minister_id`,`year`) values 
-(1,1,2,'2022-03-03');
 
 /*Table structure for table `allocate_officer` */
 
@@ -42,12 +39,32 @@ CREATE TABLE `allocate_officer` (
   `officer_id` int(11) DEFAULT NULL,
   `department_id` int(11) DEFAULT NULL,
   PRIMARY KEY (`allocate_officer_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 /*Data for the table `allocate_officer` */
 
-insert  into `allocate_officer`(`allocate_officer_id`,`officer_id`,`department_id`) values 
-(1,3,1);
+/*Table structure for table `chat` */
+
+DROP TABLE IF EXISTS `chat`;
+
+CREATE TABLE `chat` (
+  `chat_id` int(11) NOT NULL AUTO_INCREMENT,
+  `from_id` int(11) DEFAULT NULL,
+  `to_id` int(11) DEFAULT NULL,
+  `message` varchar(50000) DEFAULT NULL,
+  `date` date DEFAULT NULL,
+  PRIMARY KEY (`chat_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=latin1;
+
+/*Data for the table `chat` */
+
+insert  into `chat`(`chat_id`,`from_id`,`to_id`,`message`,`date`) values 
+(1,3,2,'hiiii','2022-03-31'),
+(2,3,0,'hi','2022-03-31'),
+(3,3,3,'heyyy','2022-03-31'),
+(4,3,3,'','2022-03-31'),
+(5,3,3,'hey','2022-03-31'),
+(6,3,3,'jooo','2022-03-31');
 
 /*Table structure for table `complaint` */
 
@@ -61,14 +78,9 @@ CREATE TABLE `complaint` (
   `complaint_reply` varchar(500) DEFAULT NULL,
   `reply_date` date DEFAULT NULL,
   PRIMARY KEY (`complaint_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 /*Data for the table `complaint` */
-
-insert  into `complaint`(`complaint_id`,`sender_id`,`complaint`,`complaint_date`,`complaint_reply`,`reply_date`) values 
-(1,3,'bad','2022-03-15','okko','2022-03-15'),
-(2,2,'network issue','2022-03-30','okkkk','2022-03-15'),
-(3,3,'tototo','2022-03-21','pending','2022-03-21');
 
 /*Table structure for table `department` */
 
@@ -78,12 +90,9 @@ CREATE TABLE `department` (
   `dept_id` int(11) NOT NULL AUTO_INCREMENT,
   `dept_name` varchar(50) DEFAULT NULL,
   PRIMARY KEY (`dept_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 /*Data for the table `department` */
-
-insert  into `department`(`dept_id`,`dept_name`) values 
-(1,'mech');
 
 /*Table structure for table `document` */
 
@@ -96,12 +105,9 @@ CREATE TABLE `document` (
   `document_type` varchar(500) DEFAULT NULL,
   `document_date` date DEFAULT NULL,
   PRIMARY KEY (`document_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 /*Data for the table `document` */
-
-insert  into `document`(`document_id`,`allocate_officer_id`,`document`,`document_type`,`document_date`) values 
-(1,1,'shhe','pdf','2022-03-24');
 
 /*Table structure for table `login` */
 
@@ -113,15 +119,14 @@ CREATE TABLE `login` (
   `password` varchar(50) DEFAULT NULL,
   `user_type` varchar(50) DEFAULT NULL,
   PRIMARY KEY (`login_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;
 
 /*Data for the table `login` */
 
 insert  into `login`(`login_id`,`username`,`password`,`user_type`) values 
 (1,'admin','admin','admin'),
-(2,'anjsaj@gmail.com','11781','minister'),
-(3,'anjsaj@gmail.com','66245','officer'),
-(4,NULL,NULL,NULL);
+(2,'joy@gmail.com','67594','minister'),
+(3,'ross@gmail.com','36715','officer');
 
 /*Table structure for table `minister` */
 
@@ -142,7 +147,7 @@ CREATE TABLE `minister` (
 /*Data for the table `minister` */
 
 insert  into `minister`(`minister_id`,`miniter_name`,`minister_proof`,`minister_place`,`minister_email`,`minister_photo`,`minister_contactnumber`,`minister_district`,`m_gender`) values 
-(2,'chandler','/static/minister/220310-100156.jpg','malappuram','anjsaj@gmail.com','/static/photo/220310-100156.jpg',918156911566,'Kasargod','male');
+(2,'joy','/static/minister/220331-100817.jpg','mala','joy@gmail.com','/static/photo/220331-100817.jpg',8156911566,'Kasargod','radio');
 
 /*Table structure for table `minister_group` */
 
@@ -175,7 +180,7 @@ CREATE TABLE `officer` (
 /*Data for the table `officer` */
 
 insert  into `officer`(`officer_id`,`officer_name`,`officer_email`,`officer_contactnumber`,`officer_proof`,`officer_photo`,`officer_district`,`officer_place`,`o_gender`) values 
-(3,'joy','anjsaj@gmail.com',918156911566,'/static/officer/220310-100310.jpg','/static/photo/220310-100310.jpg','Kasargod','malappuram','radio');
+(3,'ross','ross@gmail.com',9586587421,'/static/officer/220331-101139.jpg','/static/photo/220331-101139.jpg','kannur','vkkd','radio');
 
 /*Table structure for table `suggestions` */
 
@@ -187,14 +192,9 @@ CREATE TABLE `suggestions` (
   `suggestion_date` date DEFAULT NULL,
   `suggestion_content` varchar(500) DEFAULT NULL,
   PRIMARY KEY (`suggestion_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 /*Data for the table `suggestions` */
-
-insert  into `suggestions`(`suggestion_id`,`minister_id`,`suggestion_date`,`suggestion_content`) values 
-(1,2,'2022-03-10','good'),
-(2,2,'2022-03-18','aah'),
-(3,2,'2022-03-18','GVVDUS\r\n');
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
 /*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
