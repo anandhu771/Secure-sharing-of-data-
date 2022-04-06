@@ -265,8 +265,8 @@ def minister_chat():
     else:
         return redirect('/')
 
-@app.route('/company_staff_chat1', methods=['post'])
-def company_staff_chat():
+@app.route('/minister_chat1', methods=['post'])
+def minister_chat1():
 
         db = Db()
         a = session['m_id']
@@ -284,8 +284,8 @@ def company_staff_chat():
         print(rw)
         return rw
 
-@app.route('/chatsnd1', methods=['post'])
-def chatsnd():
+@app.route('/minister_send', methods=['post'])
+def minister_send():
 
         db = Db()
         c = session['m_id']
@@ -306,8 +306,8 @@ def chatsnd():
 
         return r
 
-@app.route('/chatrply1', methods=['post'])
-def chatrply():
+@app.route('/minister_reply', methods=['post'])
+def minister_reply():
 
         print("...........................")
         c = session['m_id']
@@ -398,8 +398,8 @@ def officer_chat():
 
 
 
-@app.route('/company_staff_chat',methods=['post'])
-def company_staff_chat1():
+@app.route('/officer_chat1',methods=['post'])
+def officer_chat1():
 
         db=Db()
         a=session['o_id']
@@ -417,8 +417,8 @@ def company_staff_chat1():
         print(rw)
         return rw
 
-@app.route('/chatsnd',methods=['post'])
-def chatsnd1():
+@app.route('/officer_send',methods=['post'])
+def officer_send():
 
         db=Db()
         c = session['o_id']
@@ -440,8 +440,8 @@ def chatsnd1():
         return r
 
 
-@app.route('/chatrply',methods=['post'])
-def chatrply1():
+@app.route('/officer_reply',methods=['post'])
+def officer_reply():
 
         print("...........................")
         c = session['o_id']
