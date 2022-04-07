@@ -5,8 +5,11 @@ import demjson
 app = Flask(__name__)
 app.secret_key = "123"
 
+@app.route('/')
+def entry_page():
+    return render_template('index.html')
 
-@app.route('/',methods=['get','post'])
+@app.route('/login',methods=['get','post'])
 def login():
     if request.method == 'POST':
         db = Db()
