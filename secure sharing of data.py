@@ -274,7 +274,7 @@ def minister_chat1():
         db = Db()
         a = session['m_id']
         print(a)
-        q1 = "SELECT *  FROM officer"
+        q1 = "SELECT *  FROM officer,allocate_minister,allocate_officer where allocate_minister.dept_id = allocate_officer.department_id and officer.officer_id = allocate_officer.officer_id and allocate_minister.minister_id = '"+str(session['m_id'])+"'"
         res = db.select(q1)
         v = {}
         if len(res) > 0:
@@ -407,7 +407,7 @@ def officer_chat1():
         db=Db()
         a=session['o_id']
         print(a)
-        q1="SELECT *  FROM minister"
+        q1="SELECT * FROM allocate_minister, allocate_officer,minister WHERE allocate_minister.minister_id = minister.minister_id and allocate_officer.department_id = allocate_minister.dept_id AND officer_id = '"+str(session['o_id'])+"'"
         res = db.select(q1)
         v={}
         if len(res)>0:

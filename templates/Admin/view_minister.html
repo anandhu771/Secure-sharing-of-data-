@@ -32,8 +32,8 @@
     <td><img src="{{ i['minister_photo'] }}"height="100" width="100">&nbsp;</td>
     <td><img src="{{ i['minister_proof'] }}"height="100" width="100">&nbsp;</td>
     <td>{{ i['minister_district'] }}&nbsp;</td>
-    <td><p><a href="/delete_minister/{{ i['minister_id'] }}" onclick="return confirm('Are you sure to delete?')">delete</a></p>
-      <p><a href="/allocate_minister/{{ i['minister_id'] }}">allocate</a></p></td>
+    <td><p><a href="/delete_minister/{{ i['minister_id'] }}"class="btn btn-danger" onclick="return confirm('Are you sure to delete?')">delete</a></p>
+      <p><a href="/allocate_minister/{{ i['minister_id'] }}"class="btn btn-success">allocate</a></p></td>
   </tr>
      {% endfor  %}
 </table>
