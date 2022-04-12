@@ -184,7 +184,7 @@ def allocate_officer(o_id):
 def view_suggestions():
     if session['lg'] == "lin":
         db = Db()
-        res = db.select("SELECT * FROM minister,suggestions WHERE minister.minister_id = suggestions.minister_id")
+        res = db.select("SELECT * FROM minister,suggestions WHERE minister.minister_id = suggestions.minister_id and suggestions.reply = 'pending'")
         return render_template('Admin/view_suggestions.html',data=res)
     else:
         return redirect('/')
@@ -194,7 +194,7 @@ def view_complaint():
     if session['lg'] == "lin":
         db = Db()
         res = db.select("SELECT * FROM officer,complaint WHERE officer.officer_id = complaint.sender_id and complaint.complaint_reply='pending'")
-        res1 = db.select("SELECT * FROM minister,complaint WHERE minister.minister_id = complaint.complaint_id and complaint.complaint_reply='pending'")
+        res1 = db.select("SELECT * FROM minister,complaint WHERE minister.minister_id = complaint.sender_id and complaint.complaint_reply='pending'")
         return render_template('Admin/view_complaint.html', data=res, data1=res1)
     else:
         return redirect('/')
@@ -214,6 +214,17 @@ def send_reply(c_id):
             return render_template('Admin/send_reply.html')
     else:
         return redirect('/')
+
+@app.route('/admin_sug_reply/<s_id>',methods=['get','post'])
+def sug_reply(s_id):
+    if request.method == 'POST':
+        reply = request.form['textarea']
+        db = Db()
+        db.update(
+            "update suggestions set reply='" + reply + "',reply_date=curdate() where suggestion_id='" + s_id + "'")
+        return '''<script>alert("reply sent ");window.location="/view_suggestions"</script>'''
+    else:
+        return render_template('Admin/admin_sug_reply.html')
 
 # ------Minister------
 @app.route('/minister')
@@ -254,7 +265,7 @@ def minister_send_suggestion():
         if request.method == "POST":
            res = request.form['textarea']
            db=Db()
-           db.insert("insert into suggestions VALUES('','"+str(session['m_id'])+"',curdate(),'"+res+"') ")
+           db.insert("insert into suggestions VALUES('','"+str(session['m_id'])+"',curdate(),'"+res+"','pending','pending') ")
            return '''<script>alert("suggestion sent");window.location = "/minister_send_suggestions"</script>'''
         return render_template('minister/minister_send_suggestions.html')
     else:

@@ -20,7 +20,7 @@
     <td>{{ loop.index}}&nbsp;</td>
     <td>{{ i['document_type'] }}&nbsp;</td>
     <td>{{ i['officer_name'] }}&nbsp;</td>
-    <td>&nbsp; <a href="/view_document"></a></td>
+    <td> <a href="{{ i['document'] }}"class="btn btn-light">view</a></td>
     <td>&nbsp;{{ i['document_date'] }}</td>
     </tr>
     {% endfor %}

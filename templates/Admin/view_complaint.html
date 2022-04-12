@@ -28,28 +28,7 @@
   </tr>
     {% endfor %}
 </table>
-<br>
-<br>
-<br>
-    <h2 style="color: green;">View Minister Complaints</h2>
-<table class="table table-dark" border="1">
-  <tr>
-    <th scope="col">#</th>
-    <th scope="col">sender</th>
-    <th scope="col">complaint</th>
-    <th scope="col">date</th>
-    <th scope="col">&nbsp;</th>
-  </tr>
-    {% for i in data1 %}
-  <tr>
-    <td>{{  loop.index}}&nbsp;</td>
-    <td>&nbsp;{{ i['miniter_name'] }}</td>
-    <td>{{ i['complaint'] }}&nbsp;</td>
-    <td>&nbsp;{{ i['complaint_date'] }}</td>
-    <td><a href="/send_reply/{{ i['complaint_id'] }}"class="btn btn-light ">reply</a></td>
-  </tr>
-    {% endfor %}
-</table>
+
 </form>
 </body>
 </html>
