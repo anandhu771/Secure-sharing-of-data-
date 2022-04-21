@@ -2,6 +2,7 @@ from flask import Flask,render_template,request,redirect,session
 from db_connection import Db
 import random,datetime
 import demjson
+
 app = Flask(__name__)
 app.secret_key = "123"
 
@@ -225,6 +226,34 @@ def sug_reply(s_id):
         return '''<script>alert("reply sent ");window.location="/view_suggestions"</script>'''
     else:
         return render_template('Admin/admin_sug_reply.html')
+@app.route('/add_group',methods=['get','post'])
+def group():
+    if request.method == 'POST':
+        group = request.form['textfield']
+        pasword = random.randint(00000, 99999)
+        db=Db()
+        db.insert("insert into group1 VALUES ('','"+group+"','"+str(pasword)+"')")
+        return '''<script>alert("Group Created");window.location="/add_group"</script>'''
+    else:
+       return render_template('Admin/Group.html')
+
+@app.route('/group_view')
+def group_view():
+
+    db = Db()
+    res= db.select("select * from group1")
+    return render_template('Admin/group_view.html',data=res)
+@app.route('/ring_officer_view/<group_id>')
+def ring_officer_view(group_id):
+    db=Db()
+    res=db.select("SELECT * FROM department,officer,allocate_officer WHERE department.dept_id = allocate_officer.department_id AND allocate_officer.officer_id = officer.officer_id")
+    return render_template('Admin/ring_officer_view.html',data=res,id=group_id)
+
+@app.route('/officer_add_ring/<g_id>/<o_id>')
+def officer_add_ring(g_id,o_id):
+    db=Db()
+    db.insert("insert into group_members values ('','"+str(g_id)+"','"+str(o_id)+"')")
+    return'''<script>alert("officer added to ring");window.location="/group_view"</script>'''
 
 # ------Minister------
 @app.route('/minister')
