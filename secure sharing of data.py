@@ -249,6 +249,18 @@ def ring_officer_view(group_id):
     res=db.select("SELECT * FROM department,officer,allocate_officer WHERE department.dept_id = allocate_officer.department_id AND allocate_officer.officer_id = officer.officer_id")
     return render_template('Admin/ring_officer_view.html',data=res,id=group_id)
 
+@app.route('/ring_minister_view/<group_id>')
+def ring_minister_view(group_id):
+    db=Db()
+    res=db.select("select * from department,minister,allocate_minister where department.dept_id = allocate_minister.dept_id and allocate_minister.minister_id = minister.minister_id")
+    return render_template('Admin/ring_minister_view.html',data=res,id=group_id)
+
+@app.route('/minister_add_ring/<g_id>/<m_id>')
+def minister_add_ring(g_id,m_id):
+    db=Db()
+    db.insert("insert into group_members values ('','"+str(g_id)+"','"+str(m_id)+"') ")
+    return '''<script>alert("minister added to ring ");window.location="/group_view"</script>'''
+
 @app.route('/officer_add_ring/<g_id>/<o_id>')
 def officer_add_ring(g_id,o_id):
     db=Db()

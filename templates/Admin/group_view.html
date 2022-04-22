@@ -17,7 +17,7 @@
     <th scope="row">{{ loop.index }}&nbsp;</th>
     <td>&nbsp;{{ i['group_name'] }}</td>
     <td><p><a href="/ring_officer_view/{{ i['group_id'] }}">officer</a></p>
-      <p><a href="#">minister</a></p></td>
+      <p><a href="/ring_minister_view/{{ i['group_id'] }}">minister</a></p></td>
   </tr>
     {% endfor %}
 </table>
