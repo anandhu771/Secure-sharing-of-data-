@@ -232,7 +232,11 @@ def group():
         group = request.form['textfield']
         pasword = random.randint(00000, 99999)
         db=Db()
-        db.insert("insert into group1 VALUES ('','"+group+"','"+str(pasword)+"')")
+        ss=db.selectOne("select * from group1 where group_name='"+group+"'")
+        if ss is not None:
+            return  '''<script>alert("Group already added");window.location="/add_group"</script>'''
+        else:
+            db.insert("insert into group1 VALUES ('','"+group+"','"+str(pasword)+"')")
         return '''<script>alert("Group Created");window.location="/add_group"</script>'''
     else:
        return render_template('Admin/Group.html')
@@ -258,14 +262,22 @@ def ring_minister_view(group_id):
 @app.route('/minister_add_ring/<g_id>/<m_id>')
 def minister_add_ring(g_id,m_id):
     db=Db()
-    db.insert("insert into group_members values ('','"+str(g_id)+"','"+str(m_id)+"') ")
-    return '''<script>alert("minister added to ring ");window.location="/group_view"</script>'''
+    ss=db.selectOne("select * from group_members where group_id='"+str(g_id)+"'and user_id = '"+str(m_id)+"'")
+    if ss is not None:
+        return '''<script>alert("already added"); window.location="/group_view"</script>'''
+    else:
+        db.insert("insert into group_members values ('','"+str(g_id)+"','"+str(m_id)+"') ")
+        return '''<script>alert("minister added to ring ");window.location="/group_view"</script>'''
 
 @app.route('/officer_add_ring/<g_id>/<o_id>')
 def officer_add_ring(g_id,o_id):
     db=Db()
-    db.insert("insert into group_members values ('','"+str(g_id)+"','"+str(o_id)+"')")
-    return'''<script>alert("officer added to ring");window.location="/group_view"</script>'''
+    ss= db.selectOne("select * from group_members where group_id='"+str(g_id)+"'and user_id='"+str(o_id)+"'")
+    if ss is not None:
+        return '''<script>alert("already added"); window.location="/group_view"</script>'''
+    else:
+        db.insert("insert into group_members values ('','"+str(g_id)+"','"+str(o_id)+"')")
+        return'''<script>alert("officer added to ring");window.location="/group_view"</script>'''
 
 # ------Minister------
 @app.route('/minister')
