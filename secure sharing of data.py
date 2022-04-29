@@ -1,10 +1,19 @@
-from flask import Flask,render_template,request,redirect,session
+from flask import Flask,render_template,request,redirect,session,jsonify,send_file
 from db_connection import Db
 import random,datetime
 import demjson
+import numpy as np
+import qrcode
+import pyAesCrypt
+from aesnew import AESCipher
+from asw_img_encr import IMG_xor,re_size
+from functools import partial
+from des import DesKey
+
 
 app = Flask(__name__)
 app.secret_key = "123"
+staticpath=r"C:\Users\BEST\PycharmProjects\secure sharing of data\static\\"
 
 @app.route('/')
 def entry_page():
@@ -31,6 +40,111 @@ def login():
                 return redirect('/officer')
 
     return render_template('login1.html')
+@app.route('/login1')
+def login1():
+    return render_template("login.html")
+@app.route('/login_post',methods=["get"])
+def loginpost():
+    username=request.args.get("uname")
+    qry="select imei,officer_id as userid from officer where officer_email='"+username+"'"
+    print(qry)
+    db=Db()
+    result=db.selectOne(qry)
+    if result is not None:
+        #
+        # random_number=random.randint(0000000000000000,9999999999999999)
+        imei_number=str(result['imei'])+str(0)
+        userid=result['userid']
+        session['lid']=userid
+        session['login'] = 'login'
+        session['lg'] = 'lin'
+        session['o_id'] = userid
+        # print("before encryption",random_number)
+
+
+
+        listtt = [1, 2, 3, 4, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+        print(type(listtt))
+        print(listtt)
+        np.random.shuffle(listtt)
+        print(listtt)
+        string=""
+        key=""
+        for i in listtt:
+            string=string+str(i)+"#"
+            key=key+str(i)
+
+
+        print("string",string)
+        session["string"]=key
+        print("key",key)
+        cipher = AESCipher(str(imei_number))
+        encrypted = cipher.encrypt(str(string))
+        print("encrypted",encrypted )
+        #
+        decrypted = cipher.decrypt(encrypted)
+        #
+        print("decrypted",decrypted)
+
+        qr = qrcode.QRCode(
+            version=1,
+            error_correction=qrcode.constants.ERROR_CORRECT_L,
+            box_size=10,
+            border=4, )
+        qr.add_data(str(encrypted))
+        qr.make(fit=True)
+        img = qr.make_image()
+        print("width",img.width)
+        # print("length",img.)
+        sring1=str(encrypted)
+        sring1=sring1.replace('/','9')
+        sring1=sring1.replace('\\','3')
+        sring1 = sring1.replace('.', '0')
+
+        img.save(staticpath+"qr\\" + sring1 + ".jpg")
+        imgpath = "/static/qr/" + sring1 + ".jpg"
+
+        # decrypted = cipher.decrypt(encrypted)
+        # print("encrypted=", encrypted)
+        # print("decrypted", decrypted.decode('utf-8'))
+        return jsonify(imgpath)
+    else:
+        status="No user"
+        return jsonify(status)
+
+@app.route('/cheching',methods=["post"])
+def check():
+    print("lll")
+    c=request.form["a"]
+    print(c)
+    string=session["string"]
+    k=c.split(',')
+
+    tot=0;
+    c=1;
+
+    for i in k:
+        if str(i)!="":
+            print(string[(int(i) - 1)], c)
+            if string[(int(i) - 1)] == str(c):
+                tot = tot + 1
+            else:
+                tot = 0
+            c = c + 1
+
+
+    print(tot,"kkkkkkkk")
+    op="no"
+
+    if tot==5:
+        op="ok"
+
+    print(k)
+    print(string,"aaaa")
+    print(string)
+    return jsonify(op)
+
 @app.route('/logout')
 def logout():
     session.clear()
@@ -103,10 +217,11 @@ def officer_registration():
             photo1 = "/static/photo/"+date+'.jpg'
             contact_number = request.form['textfield5']
             place = request.form['textfield6']
+            imei= request.form['textfield7']
             pas = random.randint(00000,99999)
             db =Db()
             ss = db.insert("insert into login values('','"+email+"','"+str(pas)+"','officer')")
-            db.insert("insert into officer values ('"+str(ss)+"','"+name+"','"+email+"','"+contact_number+"','"+proof1+"','"+photo1+"','"+district+"','"+place+"','"+gender+"')")
+            db.insert("insert into officer values ('"+str(ss)+"','"+name+"','"+email+"','"+contact_number+"','"+proof1+"','"+photo1+"','"+district+"','"+place+"','"+gender+"','"+imei+"')")
             return '<script>alert("officer added");window.location="/officer_registration"</script>'
 
         return render_template('Admin/officer_registration_form.html')
@@ -530,6 +645,67 @@ def officer_reply():
 
         rw = demjson.encode(v)
         return rw
+
+@app.route("/upload")
+def upload():
+    return render_template("officer/upload.html")
+
+
+
+
+
+
+
+
+
+
+
+
+
+# /============================================================
+
+@app.route("/usr_doc_up1")
+def usr_doc_up1():
+    return render_template("user/fileupload.html")
+
+
+
+@app.route("/usr_doc_up1_post",methods=['post'])
+def usr_doc_up1_post():
+    fl = request.files['fileField']
+    alg=request.form['algo']
+    # print(fl.filename)
+    f_path = staticpath+"files\\" + fl.filename
+    fl.save(f_path)
+    enc_pth = staticpath + "encrypted\\doc\\" + fl.filename
+    if alg=="AES":
+        pswd=str(random.randint(0000,9999))
+        bufferSize = 64 * 1024
+        pyAesCrypt.encryptFile(f_path, enc_pth+".aes", pswd, bufferSize)
+        # pyAesCrypt.decryptFile(enc_pth,"D:\\aaaa.docx",pswd,bufferSize)
+        db=Db()
+        qry="insert into document(path,algthm,userid,date,key1) values('"+fl.filename+".aes','"+alg+"','"+str(session['lid'])+"',CURDATE(),'"+pswd+"')"
+        db.insert(qry)
+        os.remove(f_path)
+        return "ok"
+    elif alg=="DES":
+        from asw_file import file_des
+        d_key = str(random.randint(10000000, 99999999)).encode('utf-8')
+        key0 = DesKey(d_key)
+        fd=file_des()
+        enc_path=fd.des_encrypt(f_path,key0)
+        key=d_key.decode('utf-8')
+        qry = "insert into document(path,algthm,userid,date,key1) values('" + enc_path + "','" + alg + "','" + str(session['lid']) + "',CURDATE(),'" + key + "')"
+        db=Db()
+        db.insert(qry)
+        os.remove(f_path)
+        return "ok"
+
+
+
+
+
+
 
 
 if __name__ == '__main__':

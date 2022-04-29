@@ -10,7 +10,7 @@ class file_rsa:
         self.DATA_PATH = Path(__file__).parent
         print("path   :",self.DATA_PATH)
         self.BLOCK_SIZE = 64
-        self.static_path=r"C:\Users\vineeth pk\PycharmProjects\userchoice\static\\"
+        self.static_path=r"C:\Users\BEST\PycharmProjects\secure sharing of data\static\\"
 
 
     def encrypt(self,file,pub_key):
@@ -59,7 +59,7 @@ class file_des:
     def __init__(self):
         self.DATA_PATH = Path(__file__).parent
         self.BLOCK_SIZE = 1024
-        self.static_path=r"C:\Users\vineeth pk\PycharmProjects\userchoice\static\\"
+        self.static_path=r"C:\Users\BEST\PycharmProjects\secure sharing of data\static\\"
         self.dec_path = self.static_path+"decrypted\\doc\\"
         self.enc_pth = self.static_path+"encrypted\\doc\\"
 

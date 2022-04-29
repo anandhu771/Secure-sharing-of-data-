@@ -4,7 +4,7 @@ from PIL import Image
 class IMG_xor:
     def __init__(self):
         self.rnd =""
-        self.static_path=r"C:\Users\vineeth pk\PycharmProjects\userchoice\static\\"
+        self.static_path=r"C:\Users\BEST\PycharmProjects\secure sharing of data\static\\"
 
     def enc(self,path):                 ########################### ENCRYPTION #####################
         """ input: 
