@@ -123,13 +123,15 @@ CREATE TABLE `document` (
   `date` datetime DEFAULT NULL,
   `key_1` varchar(25) DEFAULT NULL,
   PRIMARY KEY (`document_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=latin1;
 
 /*Data for the table `document` */
 
 insert  into `document`(`document_id`,`path`,`algthm`,`allocate_officer_id`,`date`,`key_1`) values 
 (1,'1','/static/documents/220411-103603.pdf','expence details','2022-04-11 00:00:00',NULL),
-(2,'2','/static/documents/220412-105528.pdf','final report','2022-04-12 00:00:00',NULL);
+(2,'2','/static/documents/220412-105528.pdf','final report','2022-04-12 00:00:00',NULL),
+(3,'New Text Document.txt.aes','AES','4','2022-05-06 00:00:00','2765'),
+(4,'New Text Document.txt.aes','AES','4','2022-05-06 00:00:00','4994');
 
 /*Table structure for table `file` */
 

@@ -666,7 +666,7 @@ def upload():
 
 @app.route("/usr_doc_up1")
 def usr_doc_up1():
-    return render_template("user/fileupload.html")
+    return render_template("officer/importent_document_to_minister.html")
 
 
 
@@ -684,9 +684,9 @@ def usr_doc_up1_post():
         pyAesCrypt.encryptFile(f_path, enc_pth+".aes", pswd, bufferSize)
         # pyAesCrypt.decryptFile(enc_pth,"D:\\aaaa.docx",pswd,bufferSize)
         db=Db()
-        qry="insert into document(path,algthm,userid,date,key1) values('"+fl.filename+".aes','"+alg+"','"+str(session['lid'])+"',CURDATE(),'"+pswd+"')"
+        qry="insert into document(path,algthm,allocate_officer_id,date,key_1) values('"+fl.filename+".aes','"+alg+"','"+str(session['o_id'])+"',CURDATE(),'"+pswd+"')"
         db.insert(qry)
-        os.remove(f_path)
+        np.os.remove(f_path)
         return "ok"
     elif alg=="DES":
         from asw_file import file_des
@@ -695,10 +695,10 @@ def usr_doc_up1_post():
         fd=file_des()
         enc_path=fd.des_encrypt(f_path,key0)
         key=d_key.decode('utf-8')
-        qry = "insert into document(path,algthm,userid,date,key1) values('" + enc_path + "','" + alg + "','" + str(session['lid']) + "',CURDATE(),'" + key + "')"
+        qry = "insert into document(path,algthm,allocate_officer_id,date,key_1) values('" + enc_path + "','" + alg + "','" + str(session['o_id']) + "',CURDATE(),'" + key + "')"
         db=Db()
         db.insert(qry)
-        os.remove(f_path)
+        np.os.remove(f_path)
         return "ok"
 
 
